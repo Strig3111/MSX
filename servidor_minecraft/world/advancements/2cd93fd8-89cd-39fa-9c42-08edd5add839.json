@@ -274,7 +274,8 @@
     "criteria": {
       "shrubland": "2025-02-12 02:57:02 +0000",
       "highland": "2025-02-12 03:03:55 +0000",
-      "marsh": "2025-02-12 03:03:24 +0000"
+      "marsh": "2025-02-12 03:03:24 +0000",
+      "wetland": "2025-02-12 22:50:34 +0000"
     },
     "done": false
   },
@@ -2755,6 +2756,18 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/db/ars_nouveau/archwood_seat": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/db/ars_nouveau/archwood_palisade": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/quiver": {
     "criteria": {
       "has_leather": "2025-02-12 22:48:28 +0000"
@@ -2773,9 +2786,27 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/q/ars_nouveau/vertical_archwood_planks": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-02-12 22:48:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-02-12 23:01:10 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/tf/ars_nouveau/archwood_banister": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
     },
     "done": true
   },
@@ -2785,9 +2816,21 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/tw/ars_nouveau/archwood_table": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-02-12 22:48:28 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/q/ars_nouveau/archwood_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
     },
     "done": true
   },
@@ -2803,9 +2846,57 @@
     },
     "done": true
   },
+  "everycomp:recipes/decorations/db/ars_nouveau/archwood_support": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-02-12 22:51:14 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/dd/ars_nouveau/tall_archwood_door": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/faf/ars_nouveau/archwood_beehive": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/ars_nouveau/item_shelf_archwood": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/dd/ars_nouveau/short_archwood_door": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
+  "everycomp:recipes/decorations/fd/ars_nouveau/archwood_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-02-12 22:48:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/building_blocks/ars_nouveau/sign_post_archwood": {
+    "criteria": {
+      "has_planks": "2025-02-12 22:55:06 +0000"
     },
     "done": true
   },

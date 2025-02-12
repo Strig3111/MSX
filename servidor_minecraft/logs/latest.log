@@ -4651,3 +4651,80 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [12Feb2025 22:48:46.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JackUchihaUwU> zzz
 [12Feb2025 22:49:02.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: marideoxd has made the advancement [Getting an Upgrade]
 [12Feb2025 22:50:48.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Darktouched Maw using [Darktouched Maw's Antimagic Terrible Cutlass of Bloodletting]
+[12Feb2025 22:52:52.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Feb2025 22:53:50.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[12Feb2025 22:54:10.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5939ms or 118 ticks behind
+[12Feb2025 22:54:23.804] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[12Feb2025 22:54:31.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5123ms or 102 ticks behind
+[12Feb2025 22:54:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Ahoy Captain]
+[12Feb2025 22:54:43.773] [Worker-Main-63/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[12Feb2025 22:54:51.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5337ms or 106 ticks behind
+[12Feb2025 22:55:09.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3066ms or 61 ticks behind
+[12Feb2025 22:55:27.830] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Feb2025 22:55:29.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <inseminador> XD
+[12Feb2025 22:55:32.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Fallen Sorcerer]
+[12Feb2025 22:55:32.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [The Beginning of An Adventure]
+[12Feb2025 22:55:34.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/6452, l='ServerLevel[world]', x=44.26, y=63.25, z=379.10] died: Honeyed Archer burned to death
+[12Feb2025 22:55:44.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
+[12Feb2025 22:56:03.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
+[12Feb2025 22:56:04.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lanelle'/11158, l='ServerLevel[world]', x=-1437.24, y=65.00, z=1745.21] died, message: 'Lanelle was frozen by Ice Dragon'
+[12Feb2025 22:56:04.796] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lanelle'/11158, l='ServerLevel[world]', x=-1437.24, y=65.00, z=1745.21] died: Lanelle was turned to ice by Ice Dragon
+[12Feb2025 22:56:05.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Iva'/11144, l='ServerLevel[world]', x=-1436.60, y=63.50, z=1747.54] died: Iva was turned to ice by Ice Dragon
+[12Feb2025 22:56:10.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Rosaura'/11154, l='ServerLevel[world]', x=-1440.46, y=63.00, z=1746.47] died: Rosaura was slain by Ice Dragon
+[12Feb2025 22:56:14.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Ashly'/11153, l='ServerLevel[world]', x=-1443.19, y=69.61, z=1740.51] died: Ashly was slain by Ice Dragon
+[12Feb2025 22:56:21.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
+[12Feb2025 22:56:39.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Feb2025 22:57:01.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Feb2025 22:57:31.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[12Feb2025 22:58:11.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[12Feb2025 22:58:29.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[12Feb2025 22:58:46.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 was kicked for floating too long!
+[12Feb2025 22:58:46.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 lost connection: Disconnected
+[12Feb2025 22:58:46.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 left the game
+[12Feb2025 22:58:46.218] [Server thread/INFO] [survive/]: Removing Client (Streeg11) From Survive Data Sync List
+[12Feb2025 22:58:46.285] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Feb2025 22:58:46.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2634ms or 52 ticks behind
+[12Feb2025 22:59:07.344] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[12Feb2025 22:59:07.345] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[12Feb2025 22:59:07.345] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[12Feb2025 22:59:07.345] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[12Feb2025 22:59:07.528] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[12Feb2025 22:59:07.559] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[12Feb2025 22:59:07.559] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[12Feb2025 22:59:07.712] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[12Feb2025 22:59:07.712] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[12Feb2025 22:59:07.712] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[12Feb2025 22:59:07.713] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[12Feb2025 22:59:07.801] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[12Feb2025 22:59:08.012] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[12Feb2025 22:59:08.013] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[12Feb2025 22:59:08.055] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[12Feb2025 22:59:08.055] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[12Feb2025 22:59:08.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Streeg11[/127.208.211.186:37861] logged in with entity id 13446 at (-1597.2167563907674, 63.96636804164124, 1767.4743857883034)
+[12Feb2025 22:59:08.803] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Streeg11
+[12Feb2025 22:59:08.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Streeg11
+[12Feb2025 22:59:08.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Streeg11
+[12Feb2025 22:59:08.804] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Streeg11
+[12Feb2025 22:59:08.806] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Streeg11
+[12Feb2025 22:59:08.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Streeg11
+[12Feb2025 22:59:08.808] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Streeg11
+[12Feb2025 22:59:08.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 joined the game
+[12Feb2025 22:59:08.923] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to Streeg11
+[12Feb2025 22:59:08.951] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (e31b7106-d79a-3d4b-8073-3468482a1e66)
+[12Feb2025 22:59:08.953] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Streeg11
+[12Feb2025 22:59:08.966] [Server thread/INFO] [Jade/]: Syncing config to Streeg11 (e31b7106-d79a-3d4b-8073-3468482a1e66)
+[12Feb2025 22:59:09.118] [Server thread/INFO] [survive/]: Syncing All Data To Client (Streeg11)
+[12Feb2025 22:59:09.119] [Server thread/INFO] [survive/]: Syncing Armor Data
+[12Feb2025 22:59:09.120] [Server thread/INFO] [survive/]: Done with Armors
+[12Feb2025 22:59:09.120] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[12Feb2025 22:59:09.121] [Server thread/INFO] [survive/]: Done with Fluids
+[12Feb2025 22:59:09.121] [Server thread/INFO] [survive/]: Syncing Biome Data
+[12Feb2025 22:59:09.122] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[12Feb2025 22:59:13.997] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: Streeg11 -> Global
+[12Feb2025 22:59:13.998] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[12Feb2025 22:59:44.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Feb2025 23:00:19.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Feb2025 23:02:21.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 lost connection: Disconnected
+[12Feb2025 23:02:21.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 left the game
+[12Feb2025 23:02:21.646] [Server thread/INFO] [survive/]: Removing Client (Streeg11) From Survive Data Sync List
+[12Feb2025 23:02:22.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <inseminador> XD
