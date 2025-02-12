@@ -1387,6 +1387,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-12 23:07:25 +0000",
       "minecraft:taiga": "2025-02-12 04:00:18 +0000",
       "minecraft:beach": "2025-02-12 01:36:47 +0000",
       "minecraft:river": "2025-02-12 01:35:56 +0000",
@@ -9279,9 +9280,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
-      "has_emerald_block": "2025-02-12 23:01:23 +0000"
+      "has_golden_thin_pot": "2025-02-12 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-12 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-02-12 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-02-12 23:00:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-02-12 23:00:16 +0000"
     },
     "done": true
   },
@@ -9309,12 +9334,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_thin_pot": {
-    "criteria": {
-      "has_golden_thin_pot": "2025-02-12 23:00:16 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/crystal_display": {
     "criteria": {
       "has_amethyst_shard": "2025-02-12 23:00:20 +0000"
@@ -9333,33 +9352,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-02-12 23:00:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-02-12 23:00:20 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_medium_pot": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_golden_medium_pot": "2025-02-12 23:00:16 +0000"
+      "has_emerald_block": "2025-02-12 23:01:23 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_thick_pot": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "has_golden_thick_pot": "2025-02-12 23:00:16 +0000"
+      "has_salmon": "2025-02-12 23:06:09 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_wide_pot": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_golden_wide_pot": "2025-02-12 23:00:16 +0000"
+      "has_salmon": "2025-02-12 23:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-12 23:06:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-02-12 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/salmon_barrel": {
+    "criteria": {
+      "has_cod": "2025-02-12 23:06:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-12 23:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-12 23:06:09 +0000"
     },
     "done": true
   },

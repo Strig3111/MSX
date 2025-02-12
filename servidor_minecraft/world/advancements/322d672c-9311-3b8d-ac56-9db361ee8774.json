@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-12 23:11:30 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_chair": {
     "criteria": {
       "has_stick": "2025-02-12 22:48:43 +0000"
@@ -807,6 +813,12 @@
   "betterend:recipes/redstone/dragon_tree_gate": {
     "criteria": {
       "has_stick": "2025-02-12 22:48:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-12 23:11:30 +0000"
     },
     "done": true
   },
@@ -1462,6 +1474,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-02-12 23:11:30 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/combat/tag_shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-02-12 22:48:34 +0000"
@@ -1555,6 +1573,12 @@
   "fantasyfurniture:recipes/misc/furniture_station": {
     "criteria": {
       "has_crafting_table": "2025-02-12 22:48:36 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-02-12 23:11:30 +0000"
     },
     "done": true
   },
