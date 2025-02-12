@@ -9370,9 +9370,129 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-12 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-12 23:31:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_jungle": {
+    "criteria": {
+      "has_the_recipe": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_seat": {
+    "criteria": {
+      "has_plank": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-12 23:06:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/jungle_support": {
+    "criteria": {
+      "has_plank": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-02-12 23:13:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-02-12 23:12:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_jungle": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_palisade": {
+    "criteria": {
+      "has_log": "2025-02-12 23:31:06 +0000"
     },
     "done": true
   },
@@ -9382,9 +9502,99 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-12 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 23:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-12 23:12:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-12 23:31:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 23:13:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-02-12 23:11:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2025-02-12 23:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-02-12 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-12 23:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
     },
     "done": true
   },
@@ -9400,9 +9610,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-12 23:16:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-02-12 23:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-12 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-02-12 23:12:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-12 23:16:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-12 23:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-12 23:13:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-02-12 23:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_jungle": {
+    "criteria": {
+      "has_planks": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-02-12 23:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-12 23:12:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-02-12 23:12:33 +0000"
     },
     "done": true
   },
