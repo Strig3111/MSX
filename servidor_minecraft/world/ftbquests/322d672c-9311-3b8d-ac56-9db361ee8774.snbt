@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "322d672c93113b8dac569db361ee8774"
+	name: "marideoxd#322d672c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
