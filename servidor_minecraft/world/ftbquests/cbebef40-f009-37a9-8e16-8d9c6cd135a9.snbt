@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cbebef40f00937a98e168d9c6cd135a9"
+	name: "derege#cbebef40"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
