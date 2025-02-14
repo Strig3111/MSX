@@ -5278,3 +5278,13 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [14Feb2025 03:30:29.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nicolas'/17513, l='ServerLevel[world]', x=-38.38, y=76.46, z=386.58] died: Nicolas suffocated in a wall
 [14Feb2025 03:31:00.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Francesco'/18034, l='ServerLevel[world]', x=-41.84, y=69.00, z=363.20] died, message: 'Francesco was slain by Streeg11'
 [14Feb2025 03:31:00.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Francesco'/18034, l='ServerLevel[world]', x=-41.84, y=69.00, z=363.20] died: Francesco was slain by Streeg11
+[14Feb2025 03:38:26.644] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Yan'/72, l='ServerLevel[world]', x=-23.30, y=62.05, z=200.30] died, message: 'Yan was slain by Zombie'
+[14Feb2025 03:38:26.645] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Yan'/72, l='ServerLevel[world]', x=-23.30, y=62.05, z=200.30] died: Yan was slain by Zombie
+[14Feb2025 03:38:30.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Yan'/22109, l='ServerLevel[world]', x=-23.74, y=63.00, z=202.07] died: Yan was slain by Iron Golem
+[14Feb2025 03:38:46.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Knives Out]
+[14Feb2025 03:39:19.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Gabriella
+[14Feb2025 03:39:43.838] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gabriella'/34, l='ServerLevel[world]', x=-14.70, y=66.00, z=311.70] died: Gabriella was slain by Streeg11
+[14Feb2025 03:40:24.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Ben'/22550, l='ServerLevel[world]', x=-30.55, y=68.00, z=289.87] died: Ben was slain by Streeg11
+[14Feb2025 03:48:15.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=66, z=305} BlockPos{x=-11, y=64, z=306}
+[14Feb2025 03:48:17.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=68, z=311} BlockPos{x=-19, y=67, z=312}
+[14Feb2025 03:49:18.521] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute ''
