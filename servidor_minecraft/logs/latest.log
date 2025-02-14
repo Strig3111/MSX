@@ -6792,3 +6792,11 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [14Feb2025 04:36:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Maw
 [14Feb2025 04:37:07.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Maw
 [14Feb2025 04:37:12.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Peaceful]
+[14Feb2025 04:49:38.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=67, z=361} BlockPos{x=-17, y=66, z=362}
+[14Feb2025 04:49:38.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=67, z=361} BlockPos{x=-17, y=66, z=362}
+[14Feb2025 04:52:59.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=66, z=306} BlockPos{x=-18, y=65, z=306}
+[14Feb2025 04:52:59.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=66, z=306} BlockPos{x=-18, y=65, z=306}
+[14Feb2025 04:52:59.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-17, y=66, z=306} BlockPos{x=-18, y=65, z=306}
+[14Feb2025 04:52:59.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=66, z=305} BlockPos{x=-16, y=65, z=304}
+[14Feb2025 04:52:59.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=66, z=305} BlockPos{x=-16, y=65, z=304}
+[14Feb2025 04:52:59.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=66, z=305} BlockPos{x=-16, y=65, z=304}
