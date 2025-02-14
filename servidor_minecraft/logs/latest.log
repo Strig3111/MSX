@@ -6783,3 +6783,12 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [14Feb2025 04:24:46.268] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/38767, l='ServerLevel[world]', x=-2095.50, y=45.00, z=-1352.50]
 [14Feb2025 04:24:54.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [A Lighthouse in Your Eyes]
 [14Feb2025 04:26:35.022] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39251, l='ServerLevel[world]', x=-2091.50, y=45.00, z=-1371.50]
+[14Feb2025 04:34:19.900] [Worker-Main-151/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[14Feb2025 04:35:57.794] [Worker-Main-151/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[14Feb2025 04:36:10.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2103, y=-40, z=-1697} but found not block entity block Block{minecraft:lava}[level=2] at location
+[14Feb2025 04:36:10.614] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=2] but failed at location BlockPos{x=-2103, y=-40, z=-1697}
+[14Feb2025 04:36:23.902] [Worker-Main-153/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[14Feb2025 04:36:41.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Maw
+[14Feb2025 04:36:52.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Maw
+[14Feb2025 04:37:07.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Maw
+[14Feb2025 04:37:12.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Peaceful]
