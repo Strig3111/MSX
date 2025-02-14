@@ -6770,3 +6770,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [14Feb2025 04:10:28.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Yolando'/32304, l='ServerLevel[world]', x=-2191.45, y=236.59, z=-1073.57] died, message: 'Yolando tried to swim in lava'
 [14Feb2025 04:10:28.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Yolando'/32304, l='ServerLevel[world]', x=-2191.45, y=236.59, z=-1073.57] died: Yolando tried to swim in lava
 [14Feb2025 04:10:56.995] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[14Feb2025 04:22:10.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Sea Serpent
+[14Feb2025 04:22:19.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Peaceful]
+[14Feb2025 04:23:40.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Hard]
