@@ -5288,3 +5288,7 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [14Feb2025 03:48:15.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-10, y=66, z=305} BlockPos{x=-11, y=64, z=306}
 [14Feb2025 03:48:17.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-16, y=68, z=311} BlockPos{x=-19, y=67, z=312}
 [14Feb2025 03:49:18.521] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute ''
+[14Feb2025 03:53:41.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Sea Serpent
+[14Feb2025 03:54:11.927] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Earle'/27021, l='ServerLevel[world]', x=-1401.87, y=69.50, z=1736.99] died: Earle was pricked to death
+[14Feb2025 03:54:28.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Zella'/27024, l='ServerLevel[world]', x=-1415.13, y=69.50, z=1736.81] died, message: 'Zella was pricked to death'
+[14Feb2025 03:54:28.476] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Zella'/27024, l='ServerLevel[world]', x=-1415.13, y=69.50, z=1736.81] died: Zella was pricked to death
