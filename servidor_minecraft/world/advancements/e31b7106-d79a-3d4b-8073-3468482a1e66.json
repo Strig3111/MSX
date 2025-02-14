@@ -8880,7 +8880,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-02-12 04:26:35 +0000",
-      "entered_pirate_ship": "2025-02-12 22:54:41 +0000"
+      "entered_pirate_ship": "2025-02-12 22:54:41 +0000",
+      "entered_fishing_ship": "2025-02-14 04:07:39 +0000"
     },
     "done": false
   },
@@ -10254,6 +10255,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-14 04:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-02-14 02:45:28 +0000"
@@ -10324,6 +10331,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-02-14 02:45:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-02-14 04:04:41 +0000"
     },
     "done": true
   },
@@ -10405,9 +10418,27 @@
     },
     "done": true
   },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2025-02-14 04:11:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-02-14 04:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2025-02-14 02:44:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_dispenser": "2025-02-14 03:58:53 +0000"
     },
     "done": true
   },
@@ -10465,6 +10496,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-02-14 04:04:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-14 03:26:01 +0000"
@@ -10480,6 +10517,12 @@
   "twigs:recipes/tables/oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-02-14 03:32:48 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/arsonist_necklace": {
+    "criteria": {
+      "has_fire_charge": "2025-02-14 03:58:48 +0000"
     },
     "done": true
   },
@@ -10549,6 +10592,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-02-14 04:04:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-02-14 02:44:41 +0000"
@@ -10609,6 +10658,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-02-14 04:04:44 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/straw_bale": {
     "criteria": {
       "has_straw": "2025-02-14 02:20:57 +0000"
@@ -10645,6 +10700,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-02-14 04:04:44 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/oak_banister": {
     "criteria": {
       "has_item": "2025-02-14 03:32:48 +0000"
@@ -10672,6 +10733,12 @@
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2025-02-14 02:45:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-02-14 04:04:44 +0000"
     },
     "done": true
   },
