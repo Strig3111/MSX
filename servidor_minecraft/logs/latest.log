@@ -5273,3 +5273,8 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [14Feb2025 02:25:28.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-42, y=70, z=285} BlockPos{x=-43, y=68, z=285}
 [14Feb2025 02:43:57.889] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/4837, l='ServerLevel[world]', x=24.26, y=72.34, z=467.10] died: Honeyed Archer was frozen to death
 [14Feb2025 02:51:41.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Streeg11 moved wrongly!
+[14Feb2025 03:26:17.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [The Parrots and the Bats]
+[14Feb2025 03:30:29.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nicolas'/17513, l='ServerLevel[world]', x=-38.38, y=76.46, z=386.58] died, message: 'Nicolas suffocated in a wall'
+[14Feb2025 03:30:29.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nicolas'/17513, l='ServerLevel[world]', x=-38.38, y=76.46, z=386.58] died: Nicolas suffocated in a wall
+[14Feb2025 03:31:00.782] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Francesco'/18034, l='ServerLevel[world]', x=-41.84, y=69.00, z=363.20] died, message: 'Francesco was slain by Streeg11'
+[14Feb2025 03:31:00.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Francesco'/18034, l='ServerLevel[world]', x=-41.84, y=69.00, z=363.20] died: Francesco was slain by Streeg11

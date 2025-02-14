@@ -9153,7 +9153,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-02-12 22:42:21 +0000"
+      "sugar_cane": "2025-02-12 22:42:21 +0000",
+      "potato": "2025-02-14 03:26:30 +0000",
+      "carrot": "2025-02-14 03:26:25 +0000"
     },
     "done": false
   },
@@ -10237,6 +10239,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 03:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2025-02-14 02:44:41 +0000"
@@ -10283,6 +10291,12 @@
   "minecraft:recipes/building_blocks/dye_red_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-02-14 02:44:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-14 03:26:17 +0000"
     },
     "done": true
   },
@@ -10346,6 +10360,18 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-02-14 03:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-02-14 03:26:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
       "has_birch_fancy_bed": "2025-02-14 02:45:28 +0000"
@@ -10388,6 +10414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-02-14 03:26:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2025-02-14 02:44:41 +0000"
@@ -10427,6 +10459,12 @@
   "domum_ornamentum:recipes/tools/red_brick_extra": {
     "criteria": {
       "has_dye": "2025-02-14 02:44:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 03:26:01 +0000"
     },
     "done": true
   },
@@ -10508,6 +10546,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-02-14 03:26:17 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-02-14 02:45:28 +0000"
@@ -10580,6 +10624,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-02-14 03:26:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-14 03:26:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sign_post_birch": {
     "criteria": {
       "has_the_recipe": "2025-02-14 02:45:28 +0000"
@@ -10632,6 +10688,12 @@
     "criteria": {
       "has_item1_domum_ornamentum_beige_bricks": "2025-02-14 03:10:39 +0000",
       "has_item2_domum_ornamentum_beige_bricks": "2025-02-14 03:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-14 03:26:01 +0000"
     },
     "done": true
   },
