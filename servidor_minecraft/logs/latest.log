@@ -5330,3 +5330,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 21:13:00.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
 [15Feb2025 21:13:33.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
 [15Feb2025 21:13:48.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 21:25:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has reached the goal [Hammer Time]
+[15Feb2025 21:29:29.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [The Jeweler]

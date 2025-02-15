@@ -12443,6 +12443,12 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-15 21:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-02-15 20:52:23 +0000"
@@ -12479,9 +12485,21 @@
     },
     "done": true
   },
+  "apotheotic_additions:affix/simple_reforging_table": {
+    "criteria": {
+      "material": "2025-02-15 21:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-15 20:49:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-15 21:24:52 +0000"
     },
     "done": true
   },
@@ -12533,6 +12551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-15 21:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-15 20:52:04 +0000"
@@ -12548,6 +12572,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-15 20:52:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-15 21:24:52 +0000"
     },
     "done": true
   },
@@ -12584,6 +12614,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-15 20:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-15 21:24:52 +0000"
     },
     "done": true
   },
@@ -12695,9 +12731,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-02-15 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "eidolon:recipes/building_blocks/smooth_stone_masonry_stonecutter_0": {
+    "criteria": {
+      "has_journal": "2025-02-15 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-15 21:24:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-02-15 20:52:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-15 21:24:52 +0000"
     },
     "done": true
   },
@@ -12728,6 +12788,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-02-15 20:42:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-02-15 21:24:52 +0000"
     },
     "done": true
   },
