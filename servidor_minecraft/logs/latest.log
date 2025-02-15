@@ -5327,3 +5327,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 20:56:44.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-312, y=60, z=400} BlockPos{x=-311, y=61, z=400}
 [15Feb2025 20:57:37.221] [Worker-Main-10/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -320 0 649
 [15Feb2025 21:01:39.713] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Giorno'/2496, l='ServerLevel[world]', x=-24.69, y=68.39, z=309.70] died: Giorno was slain by Iron Golem
+[15Feb2025 21:13:00.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 21:13:33.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[15Feb2025 21:13:48.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
