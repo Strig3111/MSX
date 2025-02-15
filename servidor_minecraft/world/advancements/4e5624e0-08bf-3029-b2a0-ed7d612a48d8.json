@@ -7435,35 +7435,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
-    "criteria": {
-      "beef_patty": "2025-02-12 23:55:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "potato": "2025-02-13 00:04:53 +0000",
-      "wheat": "2025-02-13 00:05:32 +0000",
-      "carrot": "2025-02-13 00:04:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-02-13 00:03:23 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-02-12 23:50:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/hamburger": {
-    "criteria": {
-      "has_beef_patty": "2025-02-12 23:56:02 +0000"
     },
     "done": true
   },
@@ -7473,27 +7447,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty": {
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-12 23:50:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-12 23:50:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-02-12 23:55:23 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/bred_all_animals": {
+  "farmersdelight:recipes/food/beef_patty": {
     "criteria": {
-      "minecraft:pig": "2025-02-13 00:03:23 +0000"
-    },
-    "done": false
-  },
-  "twigs:recipes/bone_meal_from_seashells": {
-    "criteria": {
-      "has_item": "2025-02-12 23:58:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-02-12 23:50:41 +0000"
+      "beef_patty": "2025-02-12 23:55:23 +0000"
     },
     "done": true
   },
@@ -7503,15 +7477,41 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "farmersdelight:recipes/food/hamburger": {
     "criteria": {
-      "wheat": "2025-02-13 00:05:32 +0000"
+      "has_beef_patty": "2025-02-12 23:56:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "twigs:recipes/bone_meal_from_seashells": {
     "criteria": {
-      "has_beef": "2025-02-12 23:50:41 +0000"
+      "has_item": "2025-02-12 23:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-13 00:03:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-02-13 00:03:23 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-02-13 00:04:53 +0000",
+      "wheat": "2025-02-13 00:05:32 +0000",
+      "carrot": "2025-02-13 00:04:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-13 00:05:32 +0000"
     },
     "done": true
   },

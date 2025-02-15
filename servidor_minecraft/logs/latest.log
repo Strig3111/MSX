@@ -5373,3 +5373,42 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 22:12:44.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
 [15Feb2025 23:17:38.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 overworked themself to death
 [15Feb2025 23:39:32.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 10 players online: Streeg11
+[15Feb2025 23:52:10.195] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[15Feb2025 23:52:10.196] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[15Feb2025 23:52:10.196] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[15Feb2025 23:52:10.197] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[15Feb2025 23:52:10.350] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[15Feb2025 23:52:10.364] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[15Feb2025 23:52:10.365] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[15Feb2025 23:52:10.365] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[15Feb2025 23:52:10.534] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[15Feb2025 23:52:10.534] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[15Feb2025 23:52:10.535] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[15Feb2025 23:52:10.602] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[15Feb2025 23:52:11.222] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[15Feb2025 23:52:11.263] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[15Feb2025 23:52:11.263] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[15Feb2025 23:52:11.263] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[15Feb2025 23:52:11.806] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackUchihaUwU[/127.100.26.83:53717] logged in with entity id 42101 at (-23.72621767744057, 75.0, 383.34871200263564)
+[15Feb2025 23:52:11.871] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackUchihaUwU
+[15Feb2025 23:52:11.871] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackUchihaUwU
+[15Feb2025 23:52:11.872] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackUchihaUwU
+[15Feb2025 23:52:11.872] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackUchihaUwU
+[15Feb2025 23:52:11.873] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackUchihaUwU
+[15Feb2025 23:52:11.875] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackUchihaUwU
+[15Feb2025 23:52:11.875] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackUchihaUwU
+[15Feb2025 23:52:11.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU joined the game
+[15Feb2025 23:52:12.034] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to JackUchihaUwU
+[15Feb2025 23:52:12.056] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (4e5624e0-08bf-3029-b2a0-ed7d612a48d8)
+[15Feb2025 23:52:12.058] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JackUchihaUwU
+[15Feb2025 23:52:12.072] [Server thread/INFO] [Jade/]: Syncing config to JackUchihaUwU (4e5624e0-08bf-3029-b2a0-ed7d612a48d8)
+[15Feb2025 23:52:12.138] [Server thread/INFO] [survive/]: Syncing All Data To Client (JackUchihaUwU)
+[15Feb2025 23:52:12.138] [Server thread/INFO] [survive/]: Syncing Armor Data
+[15Feb2025 23:52:12.139] [Server thread/INFO] [survive/]: Done with Armors
+[15Feb2025 23:52:12.139] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[15Feb2025 23:52:12.139] [Server thread/INFO] [survive/]: Done with Fluids
+[15Feb2025 23:52:12.139] [Server thread/INFO] [survive/]: Syncing Biome Data
+[15Feb2025 23:52:12.139] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[15Feb2025 23:52:17.518] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: JackUchihaUwU -> Global
+[15Feb2025 23:52:17.518] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 23:53:06.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> wtF?
