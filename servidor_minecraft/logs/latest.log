@@ -4590,3 +4590,22 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 05:24:09.550] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [15Feb2025 05:24:20.001] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -257 0 -192
 [15Feb2025 05:24:44.109] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -313 0 -106
+[15Feb2025 05:24:50.281] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 14 0 -235
+[15Feb2025 05:25:02.399] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -346 0 -58
+[15Feb2025 05:25:24.363] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -399 0 -104
+[15Feb2025 05:25:24.527] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -390 0 -196
+[15Feb2025 05:27:08.891] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -434 0 -85
+[15Feb2025 05:27:09.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=95, z=-9} BlockPos{x=-228, y=78, z=34}
+[15Feb2025 05:27:09.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=95, z=-9} BlockPos{x=-227, y=78, z=34}
+[15Feb2025 05:27:18.415] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -470 0 -157
+[15Feb2025 05:27:42.971] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -542 0 -89
+[15Feb2025 05:27:45.681] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -560 0 173
+[15Feb2025 05:28:19.085] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -595 0 285
+[15Feb2025 05:28:40.647] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -613 0 95
+[15Feb2025 05:29:48.687] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -630 0 118
+[15Feb2025 05:29:49.202] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-88, y=-6, z=-28}
+[15Feb2025 05:29:49.203] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-92, y=-7, z=-28}
+[15Feb2025 05:31:40.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Nightmare Fuel]
+[15Feb2025 05:31:48.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[15Feb2025 05:32:10.702] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -661 0 310
+[15Feb2025 05:33:27.753] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -368 0 356
