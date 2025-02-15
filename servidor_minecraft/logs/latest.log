@@ -5372,3 +5372,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 22:12:34.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
 [15Feb2025 22:12:44.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
 [15Feb2025 23:17:38.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 overworked themself to death
+[15Feb2025 23:39:32.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 10 players online: Streeg11
