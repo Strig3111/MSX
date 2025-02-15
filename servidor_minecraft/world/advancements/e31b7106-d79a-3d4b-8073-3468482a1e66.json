@@ -11976,6 +11976,12 @@
     },
     "done": true
   },
+  "betterend:all_the_templates": {
+    "criteria": {
+      "got_aeternium": "2025-02-15 04:58:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-15 03:57:17 +0000"
@@ -12028,6 +12034,12 @@
     "criteria": {
       "has_item1_domum_ornamentum_cream_stone_bricks": "2025-02-15 03:25:42 +0000",
       "has_item2_domum_ornamentum_cream_stone_bricks": "2025-02-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-15 04:49:46 +0000"
     },
     "done": true
   },
