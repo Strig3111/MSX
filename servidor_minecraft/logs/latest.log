@@ -5355,3 +5355,13 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 21:50:30.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
 [15Feb2025 21:50:38.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
 [15Feb2025 21:50:42.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 21:52:16.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Nether Gauntlet
+[15Feb2025 21:53:17.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Nether Gauntlet
+[15Feb2025 21:53:33.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 21:55:21.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has reached the goal [Seafood]
+[15Feb2025 21:55:48.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 21:55:53.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Nether Gauntlet
+[15Feb2025 21:56:23.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Nether Gauntlet
+[15Feb2025 21:56:30.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[15Feb2025 21:56:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 21:59:09.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]

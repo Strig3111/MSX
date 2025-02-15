@@ -12545,6 +12545,12 @@
     },
     "done": true
   },
+  "aquamirae:adventure/consume_sea_stew": {
+    "criteria": {
+      "sea_stew": "2025-02-15 21:55:21 +0000"
+    },
+    "done": true
+  },
   "georenouveau:recipes/misc/quartz_geore_dowsing_rod": {
     "criteria": {
       "has_ore": "2025-02-15 20:52:04 +0000"
