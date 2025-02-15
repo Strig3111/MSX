@@ -5309,3 +5309,20 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 20:47:48.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
 [15Feb2025 20:48:02.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
 [15Feb2025 20:49:55.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[15Feb2025 20:50:38.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 20:51:23.345] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[15Feb2025 20:52:55.229] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -119 0 530
+[15Feb2025 20:53:20.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-223, y=56, z=358} BlockPos{x=-223, y=57, z=357}
+[15Feb2025 20:53:22.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-224, y=56, z=358} BlockPos{x=-225, y=57, z=357}
+[15Feb2025 20:53:23.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-227, y=57, z=357} BlockPos{x=-226, y=56, z=357}
+[15Feb2025 20:54:13.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-230, y=60, z=361} BlockPos{x=-230, y=59, z=361}
+[15Feb2025 20:54:33.140] [Worker-Main-32/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -421 0 576
+[15Feb2025 20:54:41.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-261, y=60, z=394} BlockPos{x=-260, y=60, z=395}
+[15Feb2025 20:54:48.932] [Worker-Main-10/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -404 0 619
+[15Feb2025 20:54:55.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-269, y=61, z=401} BlockPos{x=-269, y=60, z=402}
+[15Feb2025 20:54:55.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-269, y=61, z=401} BlockPos{x=-270, y=61, z=401}
+[15Feb2025 20:55:05.613] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-282, y=60, z=401} BlockPos{x=-281, y=61, z=401}
+[15Feb2025 20:55:06.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=61, z=401} BlockPos{x=-283, y=61, z=400}
+[15Feb2025 20:55:07.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-283, y=60, z=400} BlockPos{x=-282, y=60, z=399}
+[15Feb2025 20:56:44.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-312, y=60, z=400} BlockPos{x=-311, y=61, z=400}
+[15Feb2025 20:57:37.221] [Worker-Main-10/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -320 0 649
