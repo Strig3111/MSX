@@ -5332,3 +5332,6 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 21:13:48.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
 [15Feb2025 21:25:20.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has reached the goal [Hammer Time]
 [15Feb2025 21:29:29.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [The Jeweler]
+[15Feb2025 21:34:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 21:35:08.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 21:36:49.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 was slain by Fire Dragon
