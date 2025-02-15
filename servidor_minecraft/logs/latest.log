@@ -4556,3 +4556,13 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 04:03:05.429] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kenneth'/25936, l='ServerLevel[world]', x=-893.40, y=68.00, z=959.47] died: Kenneth was incinerated by Fire Dragon
 [15Feb2025 04:03:06.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nicol'/25933, l='ServerLevel[world]', x=-896.41, y=66.00, z=929.64] died, message: 'Nicol burned to death'
 [15Feb2025 04:03:06.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nicol'/25933, l='ServerLevel[world]', x=-896.41, y=66.00, z=929.64] died: Nicol burned to death
+[15Feb2025 04:38:01.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[15Feb2025 04:38:03.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the weather to clear]
+[15Feb2025 04:40:24.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> sd
+[15Feb2025 04:45:01.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> sad
+[15Feb2025 04:45:47.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 04:46:13.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[15Feb2025 04:46:44.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 04:46:47.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[15Feb2025 04:47:12.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 04:54:08.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
