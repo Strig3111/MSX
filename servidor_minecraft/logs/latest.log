@@ -4609,3 +4609,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 05:31:48.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
 [15Feb2025 05:32:10.702] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -661 0 310
 [15Feb2025 05:33:27.753] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -368 0 356
+[15Feb2025 05:37:52.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Straddle My Ol' Saddle]
+[15Feb2025 05:40:47.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already

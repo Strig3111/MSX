@@ -286,6 +286,7 @@
       "clover_patch": "2025-02-14 23:19:16 +0000",
       "maple_woods": "2025-02-12 04:10:35 +0000",
       "crystalline_chasm": "2025-02-15 05:25:26 +0000",
+      "withered_abyss": "2025-02-15 05:34:48 +0000",
       "field": "2025-02-12 04:10:34 +0000",
       "orchard": "2025-02-12 01:39:46 +0000",
       "lavender_forest": "2025-02-12 04:26:04 +0000",
@@ -12040,6 +12041,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-15 05:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-15 03:25:42 +0000"
@@ -12055,6 +12062,12 @@
   "handcrafted:recipes/misc/crimson_dining_bench": {
     "criteria": {
       "has_crimson_dining_bench": "2025-02-15 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-15 05:40:18 +0000"
     },
     "done": true
   },
@@ -12215,6 +12228,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-02-15 05:41:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-02-15 03:25:42 +0000"
@@ -12314,6 +12333,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-02-15 05:31:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_shovel_repairing": {
+    "criteria": {
+      "has_golden_shovel": "2025-02-15 05:37:59 +0000"
     },
     "done": true
   },
