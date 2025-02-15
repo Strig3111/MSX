@@ -4572,3 +4572,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 05:02:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
 [15Feb2025 05:03:24.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Apothic Spawners]
 [15Feb2025 05:03:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 05:09:56.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Enoch'/17, l='ServerLevel[world]', x=16.96, y=64.17, z=204.15] died: Enoch was killed by magic whilst trying to escape Streeg11
+[15Feb2025 05:10:19.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Colton'/16, l='ServerLevel[world]', x=-3.03, y=63.00, z=205.56] died: Colton was killed by magic whilst trying to escape Streeg11
