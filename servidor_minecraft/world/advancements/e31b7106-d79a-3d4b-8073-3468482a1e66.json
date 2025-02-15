@@ -280,6 +280,7 @@
     "criteria": {
       "shrubland": "2025-02-11 23:27:05 +0000",
       "rocky_shrubland": "2025-02-12 01:38:41 +0000",
+      "erupting_inferno": "2025-02-15 20:41:52 +0000",
       "highland": "2025-02-12 01:01:26 +0000",
       "marsh": "2025-02-11 23:27:59 +0000",
       "wetland": "2025-02-12 01:12:20 +0000",
@@ -2401,9 +2402,12 @@
       "minecraft:pillager": "2025-02-12 00:35:52 +0000",
       "minecraft:blaze": "2025-02-15 00:13:11 +0000",
       "minecraft:skeleton": "2025-02-12 01:03:10 +0000",
+      "minecraft:ghast": "2025-02-15 20:45:51 +0000",
+      "minecraft:hoglin": "2025-02-15 20:47:18 +0000",
       "minecraft:vindicator": "2025-02-12 00:32:04 +0000",
       "minecraft:magma_cube": "2025-02-15 00:31:42 +0000",
       "minecraft:spider": "2025-02-12 01:38:30 +0000",
+      "minecraft:piglin_brute": "2025-02-15 20:47:23 +0000",
       "minecraft:creeper": "2025-02-12 00:59:05 +0000",
       "minecraft:evoker": "2025-02-12 22:55:31 +0000",
       "minecraft:phantom": "2025-02-14 23:46:29 +0000",
@@ -11957,18 +11961,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/crimson_side_table": {
-    "criteria": {
-      "has_crimson_side_table": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-15 03:25:42 +0000"
@@ -11981,51 +11973,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/sandstone_corner_trim": {
     "criteria": {
       "has_sandstone_corner_trim": "2025-02-15 03:25:42 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_crimson": {
-    "criteria": {
-      "has_planks": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
-  "betterend:all_the_templates": {
-    "criteria": {
-      "got_aeternium": "2025-02-15 04:58:56 +0000"
-    },
-    "done": false
-  },
-  "twigs:recipes/lamps/warped_shroomlamp": {
-    "criteria": {
-      "has_item": "2025-02-15 05:31:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_corner_trim": {
-    "criteria": {
-      "has_crimson_corner_trim": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_cupboard": {
-    "criteria": {
-      "has_crimson_cupboard": "2025-02-15 05:33:11 +0000"
     },
     "done": true
   },
@@ -12041,33 +11991,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-02-15 05:37:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-15 03:25:42 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/crimson_shroomlamp": {
-    "criteria": {
-      "has_item": "2025-02-15 05:31:56 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/crimson_dining_bench": {
-    "criteria": {
-      "has_crimson_dining_bench": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_helmet_repairing": {
-    "criteria": {
-      "has_golden_helmet": "2025-02-15 05:40:18 +0000"
     },
     "done": true
   },
@@ -12077,9 +12003,65 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_slab": {
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
-      "has_planks": "2025-02-15 05:33:11 +0000"
+      "has_sandstone": "2025-02-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cream_stone_bricks": {
+    "criteria": {
+      "has_item1_domum_ornamentum_cream_stone_bricks": "2025-02-15 03:25:42 +0000",
+      "has_item2_domum_ornamentum_cream_stone_bricks": "2025-02-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-02-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-02-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cream_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_cream_bricks": "2025-02-15 03:25:42 +0000",
+      "has_item1_domum_ornamentum_cream_bricks": "2025-02-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-02-15 03:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 03:57:17 +0000"
     },
     "done": true
   },
@@ -12089,15 +12071,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
+  "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
-      "has_sandstone": "2025-02-15 03:25:42 +0000"
+      "has_diorite": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-15 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-15 04:49:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:all_the_templates": {
+    "criteria": {
+      "got_aeternium": "2025-02-15 04:58:56 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-02-15 05:03:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-02-15 05:29:42 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-15 05:30:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-15 05:30:46 +0000"
     },
     "done": true
   },
   "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
     "criteria": {
       "has_log": "2025-02-15 05:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-02-15 05:31:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-02-15 05:31:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-15 05:31:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/warped_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-02-15 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/crimson_shroomlamp": {
+    "criteria": {
+      "has_item": "2025-02-15 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-02-15 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-02-15 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-02-15 05:31:56 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2025-02-15 05:32:48 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2025-02-15 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2025-02-15 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2025-02-15 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2025-02-15 05:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-15 05:33:11 +0000"
     },
     "done": true
   },
@@ -12113,70 +12281,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/frozen/obsidian": {
-    "criteria": {
-      "has_magma_block": "2025-02-15 05:32:48 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/cream_stone_bricks": {
-    "criteria": {
-      "has_item1_domum_ornamentum_cream_stone_bricks": "2025-02-15 03:25:42 +0000",
-      "has_item2_domum_ornamentum_cream_stone_bricks": "2025-02-15 03:25:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-15 04:49:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-02-15 05:31:36 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/frozen/cutting/ice_sword": {
-    "criteria": {
-      "has_diamond_sword": "2025-02-15 05:30:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_nightstand": {
     "criteria": {
       "has_crimson_nightstand": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:spawner/root": {
-    "criteria": {
-      "spawner": "2025-02-15 05:03:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-02-15 03:57:17 +0000"
     },
     "done": true
   },
@@ -12210,33 +12317,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-02-15 05:31:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_pickaxe_repairing": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-02-15 05:41:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2025-02-15 03:25:42 +0000"
     },
     "done": true
   },
@@ -12246,27 +12329,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-02-15 03:25:42 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/crimson_support": {
     "criteria": {
       "has_plank": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-02-15 05:29:42 +0000"
     },
     "done": true
   },
@@ -12282,12 +12347,6 @@
     },
     "done": true
   },
-  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
-    "criteria": {
-      "has_item": "2025-02-15 05:31:37 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_drawer": {
     "criteria": {
       "has_crimson_drawer": "2025-02-15 05:33:11 +0000"
@@ -12300,45 +12359,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_sword_repairing": {
-    "criteria": {
-      "has_diamond_sword": "2025-02-15 05:30:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/diorite_corner_trim": {
-    "criteria": {
-      "has_diorite_corner_trim": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-02-15 05:31:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-02-15 05:31:40 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_shovel_repairing": {
-    "criteria": {
-      "has_golden_shovel": "2025-02-15 05:37:59 +0000"
     },
     "done": true
   },
@@ -12348,40 +12371,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/sandstone_pillar_trim": {
-    "criteria": {
-      "has_sandstone_pillar_trim": "2025-02-15 03:25:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/diorite_pillar_trim": {
-    "criteria": {
-      "has_diorite_pillar_trim": "2025-02-15 03:57:17 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_shelf": {
     "criteria": {
       "has_crimson_shelf": "2025-02-15 05:33:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2025-02-15 03:25:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-15 05:33:11 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/cream_bricks": {
-    "criteria": {
-      "has_item2_domum_ornamentum_cream_bricks": "2025-02-15 03:25:42 +0000",
-      "has_item1_domum_ornamentum_cream_bricks": "2025-02-15 03:25:42 +0000"
     },
     "done": true
   },
@@ -12397,12 +12395,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/deepslate_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-02-15 05:31:56 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/crimson_bench": {
     "criteria": {
       "has_crimson_bench": "2025-02-15 05:33:11 +0000"
@@ -12415,15 +12407,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "has_sandstone": "2025-02-15 03:25:42 +0000"
+      "killed_by": "2025-02-15 05:37:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "aether:recipes/tools/golden_shovel_repairing": {
     "criteria": {
-      "has_diorite": "2025-02-15 03:57:17 +0000"
+      "has_golden_shovel": "2025-02-15 05:37:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-15 05:40:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-02-15 05:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-15 20:43:34 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2025-02-15 20:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-02-15 20:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-15 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-02-15 20:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-15 20:42:04 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-02-15 20:43:34 +0000"
     },
     "done": true
   },

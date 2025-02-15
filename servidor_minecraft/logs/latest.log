@@ -5282,3 +5282,30 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 20:28:14.604] [Server thread/INFO] [survive/]: Done syncing 15 biomes
 [15Feb2025 20:28:15.179] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: Streeg11 -> Global
 [15Feb2025 20:28:15.186] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[15Feb2025 20:30:21.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[15Feb2025 20:30:28.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 20:37:02.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 20:37:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[15Feb2025 20:38:22.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 20:39:58.668] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Feb2025 20:39:58.668] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Feb2025 20:39:58.669] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Feb2025 20:39:59.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[15Feb2025 20:41:44.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-323, y=48, z=253} BlockPos{x=-322, y=47, z=253}
+[15Feb2025 20:41:44.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-324, y=48, z=253} BlockPos{x=-326, y=46, z=253}
+[15Feb2025 20:41:45.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-323, y=48, z=253} BlockPos{x=-322, y=48, z=253}
+[15Feb2025 20:41:48.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-312, y=47, z=253} BlockPos{x=-314, y=46, z=253}
+[15Feb2025 20:41:50.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-307, y=46, z=253} BlockPos{x=-306, y=47, z=253}
+[15Feb2025 20:42:02.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-274, y=49, z=253} BlockPos{x=-275, y=50, z=253}
+[15Feb2025 20:42:04.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Those Were the Days]
+[15Feb2025 20:43:02.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [War Pigs]
+[15Feb2025 20:43:10.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Tools of War]
+[15Feb2025 20:43:34.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Hidden in the Depths]
+[15Feb2025 20:44:02.249] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[15Feb2025 20:44:03.119] [Worker-Main-10/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -38 0 425
+[15Feb2025 20:46:00.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 20:46:13.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 20:46:24.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[15Feb2025 20:47:48.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 20:48:02.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 20:49:55.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
