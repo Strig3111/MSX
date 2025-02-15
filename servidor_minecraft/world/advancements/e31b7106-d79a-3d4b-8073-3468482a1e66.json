@@ -11588,6 +11588,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:soul_sand_valley": "2025-02-15 05:24:22 +0000",
       "minecraft:basalt_deltas": "2025-02-15 00:12:13 +0000"
     },
     "done": false

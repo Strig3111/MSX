@@ -4574,3 +4574,19 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [15Feb2025 05:03:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
 [15Feb2025 05:09:56.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Enoch'/17, l='ServerLevel[world]', x=16.96, y=64.17, z=204.15] died: Enoch was killed by magic whilst trying to escape Streeg11
 [15Feb2025 05:10:19.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Colton'/16, l='ServerLevel[world]', x=-3.03, y=63.00, z=205.56] died: Colton was killed by magic whilst trying to escape Streeg11
+[15Feb2025 05:16:45.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
+[15Feb2025 05:18:42.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[15Feb2025 05:19:01.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 05:19:34.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[15Feb2025 05:19:45.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[15Feb2025 05:20:02.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[15Feb2025 05:20:06.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[15Feb2025 05:20:56.193] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[15Feb2025 05:21:06.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> asd
+[15Feb2025 05:21:11.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> asd
+[15Feb2025 05:22:24.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Streeg11> asd
+[15Feb2025 05:24:09.549] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Feb2025 05:24:09.549] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Feb2025 05:24:09.550] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[15Feb2025 05:24:20.001] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -257 0 -192
+[15Feb2025 05:24:44.109] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -313 0 -106
