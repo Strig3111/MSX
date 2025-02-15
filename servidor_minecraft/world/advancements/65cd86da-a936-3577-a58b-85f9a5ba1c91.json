@@ -7351,6 +7351,228 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-02-12 23:45:59 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
+    "criteria": {
+      "has_rune": "2025-02-12 23:46:01 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/test_tube": {
+    "criteria": {
+      "has_item": "2025-02-12 23:46:01 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/dark_rune": {
+    "criteria": {
+      "has_rune": "2025-02-12 23:46:01 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2025-02-12 23:47:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-02-12 23:47:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2025-02-12 23:47:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
+    "criteria": {
+      "has_arcane_crystal": "2025-02-12 23:47:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2025-02-12 23:47:32 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2025-02-12 23:49:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-02-12 23:55:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-02-12 23:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-12 23:55:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-02-12 23:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-12 23:55:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-02-12 23:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_corner_trim": {
+    "criteria": {
+      "has_diorite_corner_trim": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/diorite_pillar_trim": {
+    "criteria": {
+      "has_diorite_pillar_trim": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-13 00:05:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-02-13 00:06:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2025-02-13 00:23:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_flight": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -7396,12 +7618,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
     },
     "done": true
   },
@@ -7495,12 +7711,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -7585,12 +7795,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -7606,12 +7810,6 @@
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
-    "criteria": {
-      "has_item": "2025-02-12 23:47:32 +0000"
     },
     "done": true
   },
@@ -7648,12 +7846,6 @@
   "ars_nouveau:recipes/misc/ritual_disintegration": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-02-12 23:47:32 +0000"
     },
     "done": true
   },
@@ -7753,12 +7945,6 @@
     },
     "done": true
   },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
-    "criteria": {
-      "has_diamond_pickaxe": "2025-02-12 23:45:59 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_tuff": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -7789,12 +7975,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
-    "criteria": {
-      "has_item": "2025-02-12 23:55:14 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_gravity": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -7804,12 +7984,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/rune_block_from_rune": {
-    "criteria": {
-      "has_rune": "2025-02-12 23:46:01 +0000"
     },
     "done": true
   },
@@ -7840,12 +8014,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
     },
     "done": true
   },
@@ -7975,12 +8143,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -8071,18 +8233,6 @@
     },
     "done": true
   },
-  "tetra:spelunking/ancient_ruins": {
-    "criteria": {
-      "regular_ruin": "2025-02-12 23:49:59 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/charm_of_life_2": {
-    "criteria": {
-      "has_item": "2025-02-13 00:23:13 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/mycelial_sourcelink": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -8092,18 +8242,6 @@
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
     },
     "done": true
   },
@@ -8197,12 +8335,6 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
-    "criteria": {
-      "has_item": "2025-02-12 23:47:32 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -8224,12 +8356,6 @@
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
     },
     "done": true
   },
@@ -8263,12 +8389,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
-    "criteria": {
-      "has_item": "2025-02-12 23:55:14 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -8278,12 +8398,6 @@
   "ars_nouveau:recipes/misc/magebloom_block_to_magebloom": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
     },
     "done": true
   },
@@ -8404,12 +8518,6 @@
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
-    "criteria": {
-      "has_arcane_crystal": "2025-02-12 23:47:32 +0000"
     },
     "done": true
   },
@@ -8557,12 +8665,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -8602,12 +8704,6 @@
   "ars_nouveau:recipes/building_blocks/archwood_door": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
     },
     "done": true
   },
@@ -8674,12 +8770,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-02-13 00:05:25 +0000"
     },
     "done": true
   },
@@ -8773,12 +8863,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/diorite_corner_trim": {
-    "criteria": {
-      "has_diorite_corner_trim": "2025-02-13 00:05:25 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/item_detector": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -8812,30 +8896,6 @@
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/deepsight": {
-    "criteria": {
-      "all_effects": "2025-02-13 00:06:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-12 23:55:14 +0000"
     },
     "done": true
   },
@@ -8887,12 +8947,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -8935,12 +8989,6 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/test_tube": {
-    "criteria": {
-      "has_item": "2025-02-12 23:46:01 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -8956,12 +9004,6 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/diorite_pillar_trim": {
-    "criteria": {
-      "has_diorite_pillar_trim": "2025-02-13 00:05:25 +0000"
     },
     "done": true
   },
@@ -9013,12 +9055,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
-    "criteria": {
-      "has_item": "2025-02-12 23:55:14 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -9028,12 +9064,6 @@
   "ars_nouveau:recipes/misc/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/dark_rune": {
-    "criteria": {
-      "has_rune": "2025-02-12 23:46:01 +0000"
     },
     "done": true
   },
@@ -9052,12 +9082,6 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
-    "criteria": {
-      "has_arcane_crystal": "2025-02-12 23:47:32 +0000"
     },
     "done": true
   },
@@ -9169,12 +9193,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2025-02-13 00:23:22 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -9223,27 +9241,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-02-12 23:55:14 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
-    "criteria": {
-      "has_item": "2025-02-12 23:55:14 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-13 00:05:25 +0000"
     },
     "done": true
   },
@@ -9271,12 +9271,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-02-13 00:01:21 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
@@ -9298,6 +9292,18 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-02-13 00:23:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-13 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-02-15 03:48:57 +0000"
     },
     "done": true
   },
