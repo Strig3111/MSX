@@ -12680,6 +12680,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-02-16 03:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-16 03:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-15 20:52:23 +0000"
@@ -12710,9 +12722,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-16 03:29:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-15 20:49:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-02-16 03:29:10 +0000"
     },
     "done": true
   },
@@ -12773,6 +12797,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-02-15 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/doublefern": {
+    "criteria": {
+      "has_fern": "2025-02-16 03:29:10 +0000"
     },
     "done": true
   },
@@ -12899,6 +12929,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-02-15 20:42:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-16 03:29:52 +0000"
     },
     "done": true
   },
