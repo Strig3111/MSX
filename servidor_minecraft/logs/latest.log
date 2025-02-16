@@ -1958,3 +1958,8 @@ Caused by: java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.item
 [16Feb2025 04:07:28.215] [Server thread/INFO] [survive/]: Removing Client (inseminador) From Survive Data Sync List
 [16Feb2025 04:17:01.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
 [16Feb2025 04:17:07.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 1000]
+[16Feb2025 04:17:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[16Feb2025 04:25:29.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[16Feb2025 04:25:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[16Feb2025 04:26:39.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
+[16Feb2025 04:26:53.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
