@@ -7527,9 +7527,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-16 00:04:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-02-15 23:59:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-02-16 00:09:31 +0000"
     },
     "done": true
   },
@@ -7539,9 +7551,27 @@
     },
     "done": true
   },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-02-16 00:03:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-02-16 00:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-16 00:04:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-02-16 00:04:11 +0000"
     },
     "done": true
   },

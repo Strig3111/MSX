@@ -12588,6 +12588,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-02-16 00:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-15 20:52:23 +0000"
