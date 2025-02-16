@@ -2373,6 +2373,7 @@
       "minecraft:spider": "2025-02-12 01:40:28 +0000",
       "minecraft:creeper": "2025-02-12 03:18:46 +0000",
       "minecraft:evoker": "2025-02-12 03:02:06 +0000",
+      "minecraft:zombified_piglin": "2025-02-16 02:25:42 +0000",
       "minecraft:witch": "2025-02-12 23:55:13 +0000",
       "minecraft:husk": "2025-02-12 03:18:48 +0000",
       "minecraft:cave_spider": "2025-02-12 23:48:19 +0000",
@@ -9307,9 +9308,57 @@
     },
     "done": true
   },
+  "undergarden:recipes/combat/cloggrum_chestplate": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/cloggrum_shovel": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/cloggrum_pickaxe": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/cloggrum_lantern": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/cloggrum_sword": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/cloggrum_block": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/cloggrum_helmet": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/tools/ventium_bucket": {
     "criteria": {
       "has_item": "2025-02-16 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-16 02:28:11 +0000"
     },
     "done": true
   },
@@ -9319,9 +9368,69 @@
     },
     "done": true
   },
+  "undergarden:recipes/misc/cloggrum_ingot_to_nugget": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/cloggrum_tiles": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/cloggrum_axe": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-16 02:23:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-16 02:28:11 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-02-16 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/cloggrum_hoe": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-02-16 02:28:11 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/cloggrum_bars": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/cloggrum_leggings": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-02-16 02:23:59 +0000"
     },
     "done": true
   },
@@ -9340,6 +9449,30 @@
   "blue_skies:recipes/building_blocks/anvil_compat": {
     "criteria": {
       "has_item": "2025-02-16 02:20:47 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/cloggrum_boots": {
+    "criteria": {
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-02-16 02:32:49 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/cloggrum_shield": {
+    "criteria": {
+      "has_scales": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/cloggrum_knife": {
+    "criteria": {
+      "has_ingots/cloggrum": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },

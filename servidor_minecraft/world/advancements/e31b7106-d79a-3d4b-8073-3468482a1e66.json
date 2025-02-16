@@ -12516,6 +12516,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-02-16 02:26:54 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-02-15 21:24:52 +0000"
@@ -12765,6 +12771,12 @@
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-02-15 20:43:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table_slab": {
+    "criteria": {
+      "has_jungle": "2025-02-16 02:26:54 +0000"
     },
     "done": true
   },
