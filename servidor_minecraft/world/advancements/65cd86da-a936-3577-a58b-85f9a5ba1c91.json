@@ -10429,6 +10429,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-02-16 03:44:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/food/food/campfired_meef": {
     "criteria": {
       "has_food": "2025-02-16 03:54:52 +0000"
@@ -10444,12 +10450,6 @@
   "twilightforest:recipes/food/food/smoked_meef": {
     "criteria": {
       "has_food": "2025-02-16 03:54:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-02-16 03:44:06 +0000"
     },
     "done": true
   },

@@ -12451,11 +12451,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-02-16 04:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-02-15 20:43:34 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_sapling": "2025-02-16 04:03:24 +0000"
+    },
+    "done": false
   },
   "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
@@ -12493,6 +12505,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
+    "criteria": {
+      "has_vine": "2025-02-16 04:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-02-15 20:52:23 +0000"
@@ -12520,6 +12538,18 @@
   "twilightforest:recipes/decorations/wood/jungle_banister": {
     "criteria": {
       "has_item": "2025-02-16 02:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-02-16 04:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-16 04:03:24 +0000"
     },
     "done": true
   },
@@ -12577,6 +12607,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-02-16 04:03:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_tune_enchanting": {
+    "criteria": {
+      "has_disc": "2025-02-16 03:55:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-15 20:53:24 +0000"
@@ -12613,6 +12655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-02-16 04:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-15 20:52:04 +0000"
@@ -12622,6 +12670,12 @@
   "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-02-16 00:11:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mossy_bricks_from_vine": {
+    "criteria": {
+      "has_item": "2025-02-16 04:03:24 +0000"
     },
     "done": true
   },
@@ -12665,6 +12719,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-02-15 20:52:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/allium_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-16 04:03:24 +0000"
     },
     "done": true
   },
@@ -12713,6 +12773,12 @@
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_smooth_stone_slab": "2025-02-15 22:08:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-02-16 04:03:24 +0000"
     },
     "done": true
   },
@@ -12782,6 +12848,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/doublegrass": {
+    "criteria": {
+      "has_grass": "2025-02-16 04:03:25 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-02-15 21:47:40 +0000"
@@ -12812,6 +12884,12 @@
     },
     "done": true
   },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "lavender": "2025-02-16 04:03:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-02-15 20:52:23 +0000"
@@ -12833,6 +12911,12 @@
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-15 20:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-16 04:03:24 +0000"
     },
     "done": true
   },
@@ -12947,6 +13031,12 @@
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-02-15 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-16 04:03:24 +0000"
     },
     "done": true
   },
