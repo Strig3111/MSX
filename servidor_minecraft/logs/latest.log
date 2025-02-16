@@ -61,3 +61,45 @@
 [16Feb2025 01:50:30.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackUchihaUwU lost connection: Disconnected
 [16Feb2025 01:50:30.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU left the game
 [16Feb2025 01:50:30.571] [Server thread/INFO] [survive/]: Removing Client (JackUchihaUwU) From Survive Data Sync List
+[16Feb2025 01:55:52.895] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[16Feb2025 01:55:52.896] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[16Feb2025 01:55:52.896] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[16Feb2025 01:55:52.897] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[16Feb2025 01:55:53.045] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[16Feb2025 01:55:53.078] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[16Feb2025 01:55:53.078] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[16Feb2025 01:55:53.229] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[16Feb2025 01:55:53.230] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[16Feb2025 01:55:53.230] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[16Feb2025 01:55:53.267] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[16Feb2025 01:55:53.315] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[16Feb2025 01:55:53.866] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[16Feb2025 01:55:53.866] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[16Feb2025 01:55:53.907] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[16Feb2025 01:55:53.908] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[16Feb2025 01:55:54.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JackUchihaUwU[/127.100.26.83:56887] logged in with entity id 71231 at (-50.078377315839596, 85.0, 372.32172942677863)
+[16Feb2025 01:55:54.496] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JackUchihaUwU
+[16Feb2025 01:55:54.497] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JackUchihaUwU
+[16Feb2025 01:55:54.497] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JackUchihaUwU
+[16Feb2025 01:55:54.497] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JackUchihaUwU
+[16Feb2025 01:55:54.499] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JackUchihaUwU
+[16Feb2025 01:55:54.501] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JackUchihaUwU
+[16Feb2025 01:55:54.501] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JackUchihaUwU
+[16Feb2025 01:55:54.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU joined the game
+[16Feb2025 01:55:54.647] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to JackUchihaUwU
+[16Feb2025 01:55:54.665] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (4e5624e0-08bf-3029-b2a0-ed7d612a48d8)
+[16Feb2025 01:55:54.666] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: JackUchihaUwU
+[16Feb2025 01:55:54.684] [Server thread/INFO] [Jade/]: Syncing config to JackUchihaUwU (4e5624e0-08bf-3029-b2a0-ed7d612a48d8)
+[16Feb2025 01:55:54.753] [Server thread/INFO] [survive/]: Syncing All Data To Client (JackUchihaUwU)
+[16Feb2025 01:55:54.753] [Server thread/INFO] [survive/]: Syncing Armor Data
+[16Feb2025 01:55:54.754] [Server thread/INFO] [survive/]: Done with Armors
+[16Feb2025 01:55:54.754] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[16Feb2025 01:55:54.754] [Server thread/INFO] [survive/]: Done with Fluids
+[16Feb2025 01:55:54.754] [Server thread/INFO] [survive/]: Syncing Biome Data
+[16Feb2025 01:55:54.754] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[16Feb2025 01:56:00.469] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: JackUchihaUwU -> Global
+[16Feb2025 01:56:00.531] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Feb2025 01:56:35.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JackUchihaUwU lost connection: Disconnected
+[16Feb2025 01:56:35.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU left the game
+[16Feb2025 01:56:35.967] [Server thread/INFO] [survive/]: Removing Client (JackUchihaUwU) From Survive Data Sync List
+[16Feb2025 02:02:07.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Once Upon a Cave]
