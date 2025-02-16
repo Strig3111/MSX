@@ -1420,7 +1420,8 @@
       "baked_potato": "2025-02-12 00:28:09 +0000",
       "bread": "2025-02-12 00:29:05 +0000",
       "golden_apple": "2025-02-14 03:56:55 +0000",
-      "golden_carrot": "2025-02-14 23:57:45 +0000"
+      "golden_carrot": "2025-02-14 23:57:45 +0000",
+      "carrot": "2025-02-15 23:54:31 +0000"
     },
     "done": false
   },
@@ -12818,6 +12819,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-02-15 20:49:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_bricks": {
+    "criteria": {
+      "has_ash_brick": "2025-02-15 23:59:13 +0000"
     },
     "done": true
   },

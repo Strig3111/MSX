@@ -7515,5 +7515,47 @@
     },
     "done": true
   },
+  "apotheotic_additions:affix/materials": {
+    "criteria": {
+      "material": "2025-02-15 23:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-16 00:01:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-02-15 23:59:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-02-16 00:01:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-02-16 00:00:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-02-16 00:01:36 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/misc/squash_seeds_enchanting": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-02-15 23:59:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
