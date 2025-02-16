@@ -103,3 +103,44 @@
 [16Feb2025 01:56:35.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JackUchihaUwU left the game
 [16Feb2025 01:56:35.967] [Server thread/INFO] [survive/]: Removing Client (JackUchihaUwU) From Survive Data Sync List
 [16Feb2025 02:02:07.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [Once Upon a Cave]
+[16Feb2025 02:08:45.515] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 212
+[16Feb2025 02:08:45.656] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 213
+[16Feb2025 02:08:45.676] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 214
+[16Feb2025 02:08:45.677] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 215
+[16Feb2025 02:08:45.677] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 216
+[16Feb2025 02:08:45.843] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 217
+[16Feb2025 02:08:45.843] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 218
+[16Feb2025 02:08:45.844] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 219
+[16Feb2025 02:08:46.029] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 220
+[16Feb2025 02:08:46.072] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 221
+[16Feb2025 02:08:46.072] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 222
+[16Feb2025 02:08:46.072] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 223
+[16Feb2025 02:08:48.305] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 224
+[16Feb2025 02:08:48.306] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 225
+[16Feb2025 02:08:48.309] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 226
+[16Feb2025 02:08:48.532] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 227
+[16Feb2025 02:08:49.109] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: inseminador[/127.233.13.83:51755] logged in with entity id 73178 at (-11.987500011920929, 76.0, 378.05000001192093)
+[16Feb2025 02:08:49.164] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to inseminador
+[16Feb2025 02:08:49.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to inseminador
+[16Feb2025 02:08:49.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to inseminador
+[16Feb2025 02:08:49.165] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to inseminador
+[16Feb2025 02:08:49.167] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to inseminador
+[16Feb2025 02:08:49.169] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to inseminador
+[16Feb2025 02:08:49.169] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to inseminador
+[16Feb2025 02:08:49.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador joined the game
+[16Feb2025 02:08:49.283] [Server thread/INFO] [Treasure Bags/]: Sending 9 bag types to inseminador
+[16Feb2025 02:08:49.299] [Server thread/INFO] [MapFrontiers/]: PlayerJoinedEvent done (65cd86da-a936-3577-a58b-85f9a5ba1c91)
+[16Feb2025 02:08:49.300] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: inseminador
+[16Feb2025 02:08:49.313] [Server thread/INFO] [Jade/]: Syncing config to inseminador (65cd86da-a936-3577-a58b-85f9a5ba1c91)
+[16Feb2025 02:08:49.404] [Server thread/INFO] [survive/]: Syncing All Data To Client (inseminador)
+[16Feb2025 02:08:49.405] [Server thread/INFO] [survive/]: Syncing Armor Data
+[16Feb2025 02:08:49.406] [Server thread/INFO] [survive/]: Done with Armors
+[16Feb2025 02:08:49.406] [Server thread/INFO] [survive/]: Syncing Fluid Data
+[16Feb2025 02:08:49.407] [Server thread/INFO] [survive/]: Done with Fluids
+[16Feb2025 02:08:49.407] [Server thread/INFO] [survive/]: Syncing Biome Data
+[16Feb2025 02:08:49.408] [Server thread/INFO] [survive/]: Done syncing 15 biomes
+[16Feb2025 02:08:53.531] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: inseminador -> Global
+[16Feb2025 02:08:53.618] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Feb2025 02:12:33.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: The difficulty has been set to Hard]
+[16Feb2025 02:20:47.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador has made the advancement [A Little Hot Rod Red]
+[16Feb2025 02:23:26.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/75677, l='ServerLevel[world]', x=-108.35, y=85.25, z=436.94] died: Honeyed Archer suffocated in a wall

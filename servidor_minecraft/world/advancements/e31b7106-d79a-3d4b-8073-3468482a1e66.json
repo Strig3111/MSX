@@ -12564,6 +12564,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-02-16 02:18:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2025-02-15 20:53:24 +0000"
