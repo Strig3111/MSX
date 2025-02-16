@@ -1963,3 +1963,5 @@ Caused by: java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.item
 [16Feb2025 04:25:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
 [16Feb2025 04:26:39.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Creative Mode]
 [16Feb2025 04:26:53.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[16Feb2025 04:29:12.606] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/116594, l='ServerLevel[world]', x=21.26, y=75.25, z=454.65] died: Honeyed Archer suffocated in a wall
+[16Feb2025 04:36:02.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 13000]
