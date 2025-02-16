@@ -2840,7 +2840,8 @@
     "criteria": {
       "baked_potato": "2025-02-12 00:56:53 +0000",
       "apple": "2025-02-12 02:14:36 +0000",
-      "bread": "2025-02-12 01:10:34 +0000"
+      "bread": "2025-02-12 01:10:34 +0000",
+      "carrot": "2025-02-16 00:51:32 +0000"
     },
     "done": false
   },
@@ -7521,9 +7522,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-16 00:43:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-02-16 00:01:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-16 00:43:26 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-16 00:43:26 +0000"
     },
     "done": true
   },
@@ -7542,6 +7561,18 @@
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2025-02-16 00:09:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-16 00:43:26 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-02-16 00:43:29 +0000"
     },
     "done": true
   },
@@ -7575,9 +7606,21 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-02-16 00:43:29 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-02-16 00:04:11 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-16 00:43:26 +0000"
     },
     "done": true
   },
@@ -7593,6 +7636,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-02-16 00:43:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-16 00:43:29 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_leggings_repairing": {
     "criteria": {
       "has_diamond_leggings": "2025-02-16 00:12:57 +0000"
@@ -7602,6 +7657,12 @@
   "deep_aether:recipes/misc/squash_seeds_enchanting": {
     "criteria": {
       "has_pumpkin_seeds": "2025-02-15 23:59:40 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-02-16 00:43:29 +0000"
     },
     "done": true
   },
