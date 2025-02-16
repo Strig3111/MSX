@@ -302,6 +302,8 @@
       "marsh": "2025-02-12 00:50:15 +0000",
       "wetland": "2025-02-12 00:59:10 +0000",
       "maple_woods": "2025-02-12 23:52:32 +0000",
+      "crystalline_chasm": "2025-02-16 01:48:42 +0000",
+      "withered_abyss": "2025-02-16 01:49:15 +0000",
       "orchard": "2025-02-12 01:39:41 +0000",
       "field": "2025-02-12 23:26:58 +0000",
       "lavender_forest": "2025-02-12 04:25:40 +0000",
@@ -7525,6 +7527,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-02-16 01:48:34 +0000"
+    },
+    "done": false
+  },
   "twilightforest:arborist": {
     "criteria": {
       "darkwood_sapling": "2025-02-16 01:16:32 +0000"
@@ -7579,6 +7587,12 @@
     },
     "done": true
   },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-02-16 01:48:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-02-15 23:59:39 +0000"
@@ -7618,6 +7632,12 @@
   "twilightforest:recipes/combat/equipment/block_and_chain": {
     "criteria": {
       "has_ingot": "2025-02-16 01:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-16 01:48:34 +0000"
     },
     "done": true
   },
@@ -7810,6 +7830,12 @@
   "twilightforest:recipes/misc/equipment/knightmetal_ring": {
     "criteria": {
       "has_item": "2025-02-16 01:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-16 01:48:34 +0000"
     },
     "done": true
   },
