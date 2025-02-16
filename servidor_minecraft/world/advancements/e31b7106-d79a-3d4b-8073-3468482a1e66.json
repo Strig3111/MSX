@@ -1408,6 +1408,7 @@
       "minecraft:frozen_ocean": "2025-02-12 22:53:45 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-12 04:18:39 +0000",
       "minecraft:ocean": "2025-02-12 00:27:38 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-16 03:16:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-14 23:20:37 +0000",
       "minecraft:savanna": "2025-02-12 03:33:18 +0000",
       "minecraft:plains": "2025-02-12 01:36:05 +0000"
@@ -12656,7 +12657,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-02-15 21:47:40 +0000"
+      "in_better_zombie_dungeon": "2025-02-15 21:47:40 +0000",
+      "in_better_spider_dungeon": "2025-02-16 03:20:49 +0000"
     },
     "done": false
   },
@@ -12909,6 +12911,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-02-15 20:43:34 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-16 03:20:49 +0000"
     },
     "done": true
   },

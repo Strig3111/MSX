@@ -306,9 +306,11 @@
       "lavender_forest": "2025-02-12 01:45:42 +0000",
       "mediterranean_forest": "2025-02-12 03:18:16 +0000",
       "coniferous_forest": "2025-02-12 01:46:03 +0000",
+      "spider_nest": "2025-02-16 03:22:36 +0000",
       "dune_beach": "2025-02-12 00:58:29 +0000",
       "lavender_field": "2025-02-12 01:53:00 +0000",
       "pumpkin_patch": "2025-02-12 01:47:37 +0000",
+      "grassland": "2025-02-16 03:05:22 +0000",
       "crag": "2025-02-12 01:24:36 +0000"
     },
     "done": false
@@ -1872,6 +1874,7 @@
       "minecraft:cold_ocean": "2025-02-12 23:14:00 +0000",
       "minecraft:forest": "2025-02-12 01:44:29 +0000",
       "minecraft:ocean": "2025-02-12 00:27:22 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-02-16 03:04:58 +0000",
       "minecraft:windswept_savanna": "2025-02-12 03:31:27 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-12 02:59:26 +0000",
       "minecraft:flower_forest": "2025-02-12 02:27:50 +0000",
@@ -9310,63 +9313,75 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/processed_obsidian_block_from_obsidian_ingot": {
+  "blue_skies:recipes/tools/ventium_bucket": {
     "criteria": {
-      "has_obsidian_ingot": "2025-02-16 02:38:16 +0000"
+      "has_item": "2025-02-16 02:20:47 +0000"
     },
     "done": true
   },
-  "undergarden:recipes/combat/froststeel_sword": {
+  "blue_skies:recipes/building_blocks/tool_box": {
     "criteria": {
-      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
+      "has_item": "2025-02-16 02:20:47 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/thallasium_chandelier": {
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
     "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+      "has_item": "2025-02-16 02:20:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+  "blue_skies:recipes/tools/ventium_shears": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+      "has_item": "2025-02-16 02:20:47 +0000"
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/building_blocks/deorum_trapdoor": {
+  "blue_skies:everbright/get_ventium": {
     "criteria": {
-      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
+      "obtain_material": "2025-02-16 02:20:47 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
+  "blue_skies:recipes/building_blocks/anvil_compat": {
     "criteria": {
-      "has_item": "2025-02-16 02:38:01 +0000"
+      "has_item": "2025-02-16 02:20:47 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_gloves_smithing": {
+  "blue_skies:recipes/building_blocks/ventium_block": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+      "has_item": "2025-02-16 02:20:47 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
     "criteria": {
-      "has_item": "2025-02-16 02:38:01 +0000"
+      "has_diamond_sword": "2025-02-16 02:23:59 +0000"
     },
     "done": true
   },
-  "undergarden:recipes/combat/froststeel_leggings": {
+  "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
-      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
+      "has_diamond_sword": "2025-02-16 02:23:59 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonsteel": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "steel": "2025-02-16 02:38:01 +0000"
+      "has_iron_block": "2025-02-16 02:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-16 02:28:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-02-16 02:28:11 +0000"
     },
     "done": true
   },
@@ -9376,33 +9391,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/creeper_trophy": {
-    "criteria": {
-      "has_creeper_trophy": "2025-02-16 02:48:19 +0000"
-    },
-    "done": true
-  },
   "undergarden:recipes/tools/cloggrum_shovel": {
     "criteria": {
       "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-16 02:44:02 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/starlit_chest": {
-    "criteria": {
-      "has_item": "2025-02-16 02:45:13 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/knives/steel_knife": {
-    "criteria": {
-      "has_ingots/steel": "2025-02-16 02:38:49 +0000"
     },
     "done": true
   },
@@ -9412,69 +9403,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-02-16 02:48:19 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_pressure_plate": {
-    "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/deorum_nugget_from_deorum_ingot": {
-    "criteria": {
-      "has_item": "2025-02-16 02:37:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
-    "criteria": {
-      "has_dragonsteel_fire_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_machete_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
   "undergarden:recipes/decorations/cloggrum_lantern": {
     "criteria": {
       "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/ghost_sword": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/redstone/deorum_pressure_plate": {
-    "criteria": {
-      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-02-16 02:43:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/netherite_knife_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
     },
     "done": true
   },
@@ -9490,87 +9421,93 @@
     },
     "done": true
   },
-  "crabbersdelight:recipes/misc/bucket_of_clawster_chum": {
-    "criteria": {
-      "has_bone_meal": "2025-02-16 02:45:13 +0000"
-    },
-    "done": true
-  },
   "undergarden:recipes/combat/cloggrum_helmet": {
     "criteria": {
       "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/vindicator_trophy": {
+  "undergarden:recipes/misc/cloggrum_ingot_to_nugget": {
     "criteria": {
-      "has_vindicator_trophy": "2025-02-16 02:48:19 +0000"
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/tools/ventium_bucket": {
+  "undergarden:recipes/building_blocks/cloggrum_tiles": {
     "criteria": {
-      "has_item": "2025-02-16 02:20:47 +0000"
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
-  "domum_ornamentum:recipes/tools/green_cactus_extra": {
+  "undergarden:recipes/tools/cloggrum_axe": {
     "criteria": {
-      "has_material": "2025-02-16 02:41:42 +0000"
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "undergarden:recipes/tools/cloggrum_hoe": {
     "criteria": {
-      "has_iron_block": "2025-02-16 02:28:11 +0000"
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/dark_nether_star": {
+  "undergarden:recipes/decorations/cloggrum_bars": {
     "criteria": {
-      "has_obsidian_ingot": "2025-02-16 02:38:16 +0000"
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/tool_box": {
+  "undergarden:recipes/combat/cloggrum_leggings": {
     "criteria": {
-      "has_item": "2025-02-16 02:20:47 +0000"
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
-  "undergarden:recipes/misc/forgotten_sword_smithing": {
+  "undergarden:recipes/combat/cloggrum_boots": {
     "criteria": {
-      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
+      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_cartography_table": {
+  "undergarden:recipes/combat/cloggrum_shield": {
     "criteria": {
-      "has_paper": "2025-02-16 02:45:08 +0000"
+      "has_scales": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
+  "delightful:recipes/knives/cloggrum_knife": {
     "criteria": {
-      "has_stone_slab": "2025-02-16 02:48:29 +0000"
+      "has_ingots/cloggrum": "2025-02-16 02:32:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-02-16 02:32:49 +0000"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/misc/hellforged_block": {
+    "criteria": {
+      "has_hellforged": "2025-02-16 02:37:47 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/froststeel_sword": {
+    "criteria": {
+      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/combat/froststeel_leggings": {
+    "criteria": {
+      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
     },
     "done": true
   },
   "undergarden:recipes/combat/froststeel_boots": {
     "criteria": {
       "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/skeleton_trophy": {
-    "criteria": {
-      "has_skeleton_trophy": "2025-02-16 02:48:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-02-16 02:48:19 +0000"
     },
     "done": true
   },
@@ -9586,51 +9523,123 @@
     },
     "done": true
   },
-  "undergarden:recipes/building_blocks/forgotten_block": {
-    "criteria": {
-      "has_forgotten_ingot": "2025-02-16 02:37:58 +0000"
-    },
-    "done": true
-  },
   "undergarden:recipes/tools/froststeel_hoe": {
     "criteria": {
       "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
     },
     "done": true
   },
-  "domum_ornamentum:recipes/tools/white_paper_extra": {
+  "undergarden:recipes/tools/froststeel_shovel": {
     "criteria": {
-      "has_material": "2025-02-16 02:45:08 +0000"
+      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
     },
     "done": true
   },
-  "twigs:recipes/columns/stone_column": {
+  "umbral_skies:recipes/combat/ironwood_gloves": {
     "criteria": {
-      "has_item": "2025-02-16 02:48:19 +0000"
+      "has_item": "2025-02-16 02:37:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_leggings_smithing": {
+  "undergarden:recipes/misc/froststeel_ingot_to_nugget": {
     "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_boots": {
+  "undergarden:recipes/combat/froststeel_chestplate": {
     "criteria": {
-      "has_item": "2025-02-16 02:38:16 +0000"
+      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
     },
     "done": true
   },
-  "tetra:spelunking/find_scroll_howling": {
+  "undergarden:recipes/combat/froststeel_helmet": {
     "criteria": {
-      "find": "2025-02-16 02:41:14 +0000"
+      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
+  "undergarden:recipes/tools/froststeel_pickaxe": {
     "criteria": {
-      "has_item": "2025-02-16 02:38:01 +0000"
+      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/ironwood_knife": {
+    "criteria": {
+      "has_ironwood_ingot": "2025-02-16 02:37:52 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/tools/froststeel_axe": {
+    "criteria": {
+      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/froststeel_knife": {
+    "criteria": {
+      "has_ingots/froststeel": "2025-02-16 02:37:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_trapdoor": {
+    "criteria": {
+      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_nugget_from_deorum_ingot": {
+    "criteria": {
+      "has_item": "2025-02-16 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/redstone/deorum_pressure_plate": {
+    "criteria": {
+      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/deorum_block_from_deorum_ingot": {
+    "criteria": {
+      "has_deorum_ingot": "2025-02-16 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/golden_orchid_seeds": {
+    "criteria": {
+      "has_deorum_ingot": "2025-02-16 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/arcane_edelwood_planks": {
+    "criteria": {
+      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/decorations/deorum_chain": {
+    "criteria": {
+      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/deorum_door": {
+    "criteria": {
+      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_sword_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/forgotten_block": {
+    "criteria": {
+      "has_forgotten_ingot": "2025-02-16 02:37:58 +0000"
     },
     "done": true
   },
@@ -9640,27 +9649,87 @@
     },
     "done": true
   },
-  "undergarden:recipes/misc/cloggrum_ingot_to_nugget": {
+  "delightful:recipes/knives/smithing/forgotten_knife": {
     "criteria": {
-      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+      "has_ingots/forgotten_metal": "2025-02-16 02:37:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stonecutter": {
+  "undergarden:recipes/misc/forgotten_ingot_to_nugget": {
     "criteria": {
-      "has_stone": "2025-02-16 02:48:19 +0000"
+      "has_forgotten_ingot": "2025-02-16 02:37:58 +0000"
     },
     "done": true
   },
-  "undergarden:recipes/building_blocks/cloggrum_tiles": {
+  "undergarden:recipes/misc/forgotten_battleaxe_smithing": {
     "criteria": {
-      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
+      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
     },
     "done": true
   },
-  "twigs:recipes/columns/stone_column_stonecutting": {
+  "undergarden:recipes/misc/forgotten_shovel_smithing": {
     "criteria": {
-      "has_item": "2025-02-16 02:48:19 +0000"
+      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_axe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/forgotten_ingot": {
+    "criteria": {
+      "has_forgotten_ingot": "2025-02-16 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_hoe_smithing": {
+    "criteria": {
+      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_chandelier": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_pressure_plate": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
+    "criteria": {
+      "has_dragonsteel_fire_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:01 +0000"
     },
     "done": true
   },
@@ -9670,15 +9739,537 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/thallasium_chain": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_door": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_nuggets_from_ingot": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_block": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bulb_lantern": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_bars": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_trapdoor": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_anvil": {
+    "criteria": {
+      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:07 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/processed_obsidian_block_from_obsidian_ingot": {
+    "criteria": {
+      "has_obsidian_ingot": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/dark_nether_star": {
+    "criteria": {
+      "has_obsidian_ingot": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_boots": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_sword": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/fiery_knife": {
+    "criteria": {
+      "has_fiery_ingot": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/fiery_knifealt": {
+    "criteria": {
+      "has_fiery_ingot": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/fiery_block": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/fiery_cooking_pot": {
+    "criteria": {
+      "has_fiery_ingot": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "umbral_skies:recipes/combat/fiery_gloves": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:16 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/steel_knife": {
+    "criteria": {
+      "has_ingots/steel": "2025-02-16 02:38:49 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-02-16 02:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-02-16 02:38:49 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/decorations/blackstone_stove": {
+    "criteria": {
+      "has_nether_brick": "2025-02-16 02:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_gloves_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
     },
     "done": true
   },
-  "undergarden:recipes/tools/froststeel_shovel": {
+  "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
-      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing": {
+    "criteria": {
+      "has_item": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing_from_core": {
+    "criteria": {
+      "has_item": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-02-16 02:39:59 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-02-16 02:40:58 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2025-02-16 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/green_cactus_extra": {
+    "criteria": {
+      "has_material": "2025-02-16 02:41:42 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cactus_extra": {
+    "criteria": {
+      "has_material": "2025-02-16 02:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-02-16 02:41:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_orange_cosmos": {
+    "criteria": {
+      "has_flower": "2025-02-16 02:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-16 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-16 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2025-02-16 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-16 02:43:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-16 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-16 02:44:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-16 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_paper_extra": {
+    "criteria": {
+      "has_material": "2025-02-16 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/paper_extra": {
+    "criteria": {
+      "has_material": "2025-02-16 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-16 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-16 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-16 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-16 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-16 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_chest": {
+    "criteria": {
+      "has_item": "2025-02-16 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/misc/bucket_of_clawster_chum": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/misc/bucket_of_clam_chum": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/misc/bucket_of_shrimp_chum": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_ladder": {
+    "criteria": {
+      "has_item": "2025-02-16 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/misc/bucket_of_crab_chum": {
+    "criteria": {
+      "has_bone_meal": "2025-02-16 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-02-16 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-02-16 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-02-16 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-02-16 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-02-16 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2025-02-16 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-02-16 02:48:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-16 02:48:19 +0000"
     },
     "done": true
   },
@@ -9700,45 +10291,9 @@
     },
     "done": true
   },
-  "delightful:recipes/knives/smithing/forgotten_knife": {
-    "criteria": {
-      "has_ingots/forgotten_metal": "2025-02-16 02:37:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/netherite_block": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-16 02:48:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_shovel_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/wither": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:49 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/paper_extra": {
-    "criteria": {
-      "has_material": "2025-02-16 02:45:08 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/tools/cloggrum_axe": {
-    "criteria": {
-      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
@@ -9748,147 +10303,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-02-16 02:38:49 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_chain": {
-    "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "umbral_skies:recipes/combat/ironwood_gloves": {
-    "criteria": {
-      "has_item": "2025-02-16 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/frozen/cutting/ice_sword": {
-    "criteria": {
-      "has_diamond_sword": "2025-02-16 02:23:59 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/decorations/blackstone_stove": {
-    "criteria": {
-      "has_nether_brick": "2025-02-16 02:38:49 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_door": {
-    "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/froststeel_ingot_to_nugget": {
-    "criteria": {
-      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-02-16 02:28:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-16 02:44:02 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/combat/froststeel_chestplate": {
-    "criteria": {
-      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
-    "criteria": {
-      "has_item": "2025-02-16 02:20:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-02-16 02:48:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_nuggets_from_ingot": {
-    "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/forgotten_ingot_to_nugget": {
-    "criteria": {
-      "has_forgotten_ingot": "2025-02-16 02:37:58 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/tools/cloggrum_hoe": {
-    "criteria": {
-      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/combat/froststeel_helmet": {
-    "criteria": {
-      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/misc/bucket_of_clam_chum": {
-    "criteria": {
-      "has_bone_meal": "2025-02-16 02:45:13 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/heavy": {
-    "criteria": {
-      "has_item": "2025-02-16 02:28:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-02-16 02:45:13 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/misc/bucket_of_shrimp_chum": {
-    "criteria": {
-      "has_bone_meal": "2025-02-16 02:45:13 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing": {
-    "criteria": {
-      "has_item": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/decorations/cloggrum_bars": {
-    "criteria": {
-      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
     },
     "done": true
   },
@@ -9904,36 +10321,6 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/fiery_sword": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-02-16 02:54:51 +0000"
-    },
-    "done": true
-  },
-  "domum_ornamentum:recipes/tools/cactus_extra": {
-    "criteria": {
-      "has_material": "2025-02-16 02:41:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "sword": "2025-02-16 02:39:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-02-16 02:48:19 +0000"
@@ -9946,141 +10333,9 @@
     },
     "done": true
   },
-  "celestisynth:recipes/misc/supernal_netherite_ingot_smithing_from_core": {
-    "criteria": {
-      "has_item": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/planter_rich": {
-    "criteria": {
-      "has_bone_meal": "2025-02-16 02:45:13 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_helmet": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_boots_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_block": {
-    "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-02-16 02:43:55 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/misc/fiery_knife": {
-    "criteria": {
-      "has_fiery_ingot": "2025-02-16 02:38:16 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
-    "criteria": {
-      "has_item": "2025-02-16 02:43:55 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/deorum_block_from_deorum_ingot": {
-    "criteria": {
-      "has_deorum_ingot": "2025-02-16 02:37:55 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/forgotten_battleaxe_smithing": {
-    "criteria": {
-      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/forgotten_shovel_smithing": {
-    "criteria": {
-      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_axe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-02-16 02:48:19 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_paper": "2025-02-16 02:45:08 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/combat/cloggrum_leggings": {
-    "criteria": {
-      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_sword_repairing": {
-    "criteria": {
-      "has_diamond_sword": "2025-02-16 02:23:59 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/golden_orchid_seeds": {
-    "criteria": {
-      "has_deorum_ingot": "2025-02-16 02:37:55 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/misc/fiery_knifealt": {
-    "criteria": {
-      "has_fiery_ingot": "2025-02-16 02:38:16 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/tools/froststeel_pickaxe": {
-    "criteria": {
-      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2025-02-16 02:45:08 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/forgotten_axe_smithing": {
-    "criteria": {
-      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/arcane_edelwood_planks": {
-    "criteria": {
-      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:01 +0000"
     },
     "done": true
   },
@@ -10090,57 +10345,9 @@
     },
     "done": true
   },
-  "twigs:recipes/paper_lanterns/paper_lantern": {
-    "criteria": {
-      "has_item": "2025-02-16 02:45:08 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/safe": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "bloodmagic:recipes/misc/hellforged_block": {
-    "criteria": {
-      "has_hellforged": "2025-02-16 02:37:47 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-02-16 02:48:19 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/decorations/deorum_chain": {
-    "criteria": {
-      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/misc/ironwood_knife": {
-    "criteria": {
-      "has_ironwood_ingot": "2025-02-16 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-16 02:45:13 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_shears": {
-    "criteria": {
-      "has_item": "2025-02-16 02:20:47 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/building_blocks/deorum_door": {
-    "criteria": {
-      "has_ingots/deorum": "2025-02-16 02:37:55 +0000"
     },
     "done": true
   },
@@ -10150,171 +10357,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-16 02:45:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/netherite_sword_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/forgotten_ingot": {
-    "criteria": {
-      "has_forgotten_ingot": "2025-02-16 02:37:58 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_chestplate": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-16 02:44:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_hoe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/get_ventium": {
-    "criteria": {
-      "obtain_material": "2025-02-16 02:20:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-02-16 02:51:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/fiery_leggings": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:16 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/compressed_blocks/fiery_block": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:16 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_bulb_lantern": {
-    "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-02-16 02:41:42 +0000"
-    },
-    "done": true
-  },
-  "aquamirae:recipes/pirate_pouch": {
-    "criteria": {
-      "has_item": "2025-02-16 02:40:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-02-16 02:48:19 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-16 02:44:02 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_bars": {
-    "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/anvil_compat": {
-    "criteria": {
-      "has_item": "2025-02-16 02:20:47 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/combat/cloggrum_boots": {
-    "criteria": {
-      "has_cloggrum_ingot": "2025-02-16 02:32:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/orange_dye_from_orange_cosmos": {
-    "criteria": {
-      "has_flower": "2025-02-16 02:41:45 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/forgotten_hoe_smithing": {
-    "criteria": {
-      "has_undergarden:forgotten_ingot": "2025-02-16 02:37:58 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/tools/froststeel_axe": {
-    "criteria": {
-      "has_froststeel_ingot": "2025-02-16 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_chestplate_repairing": {
-    "criteria": {
-      "has_leather_chestplate": "2025-02-16 02:32:49 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/thallasium_trapdoor": {
-    "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/starlit_ladder": {
-    "criteria": {
-      "has_item": "2025-02-16 02:45:13 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/misc/fiery_cooking_pot": {
-    "criteria": {
-      "has_fiery_ingot": "2025-02-16 02:38:16 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2025-02-16 02:48:19 +0000"
-    },
-    "done": true
-  },
-  "umbral_skies:recipes/combat/fiery_gloves": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-02-16 02:44:02 +0000"
     },
     "done": true
   },
@@ -10330,57 +10381,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/thallasium_anvil": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_thallasium_ingot": "2025-02-16 02:38:01 +0000"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/misc/bucket_of_crab_chum": {
-    "criteria": {
-      "has_bone_meal": "2025-02-16 02:45:13 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/knives/froststeel_knife": {
-    "criteria": {
-      "has_ingots/froststeel": "2025-02-16 02:37:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-02-16 02:45:08 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/combat/cloggrum_shield": {
-    "criteria": {
-      "has_scales": "2025-02-16 02:32:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
-    "criteria": {
-      "has_netherite_ingot": "2025-02-16 02:39:04 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/knives/cloggrum_knife": {
-    "criteria": {
-      "has_ingots/cloggrum": "2025-02-16 02:32:42 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/ventium_block": {
-    "criteria": {
-      "has_item": "2025-02-16 02:20:47 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/equipment/fiery_pickaxe": {
-    "criteria": {
-      "has_item": "2025-02-16 02:38:16 +0000"
+      "has_stone_slab": "2025-02-16 02:48:29 +0000"
     },
     "done": true
   },
@@ -10390,15 +10393,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_raw_copper": "2025-02-16 02:43:55 +0000"
+      "enchanted_item": "2025-02-16 02:51:08 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+  "apotheosis:enchanting/30ench": {
     "criteria": {
-      "has_item": "2025-02-16 02:38:01 +0000"
+      "enchanted_item": "2025-02-16 02:54:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-16 03:04:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-16 03:04:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-16 03:04:30 +0000"
     },
     "done": true
   },
