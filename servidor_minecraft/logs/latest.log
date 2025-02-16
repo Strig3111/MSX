@@ -1177,3 +1177,133 @@ Caused by: java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.item
 [16Feb2025 03:35:19.714] [Server thread/INFO] [survive/]: Done syncing 15 biomes
 [16Feb2025 03:35:21.702] [Server thread/INFO] [ping-wheel/]: [Ping-Wheel] Channel update: inseminador -> Global
 [16Feb2025 03:35:21.703] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[16Feb2025 03:41:26.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Streeg11 has made the advancement [What a Deal!]
+[16Feb2025 03:44:06.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador has made the advancement [Cover Me with Diamonds]
+[16Feb2025 03:53:53.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set the time to 1000]
+[16Feb2025 03:54:00.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Spectator Mode]
+[16Feb2025 03:54:06.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Streeg11: Set own game mode to Survival Mode]
+[16Feb2025 03:54:16.090] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Duke Israel'/113151, l='ServerLevel[world]', x=-1574.94, y=-19.00, z=-4046.22] died: Duke Israel was slain by inseminador
+[16Feb2025 03:56:01.635] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: 'void it.hurts.sskirillss.ramcompat.items.StinkGlandItem.addExperience(net.minecraft.world.entity.Entity, net.minecraft.world.item.ItemStack, int)'
+	Index: 53
+	Listeners:
+		0: HIGHEST
+		1: net.minecraftforge.eventbus.EventBus$$Lambda$1762/0x00007ad7a0808f88@44fb2ab9
+		2: ASM: wayoftime.bloodmagic.util.handler.event.GenericHandler@15a83ce1 onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		3: NORMAL
+		4: ASM: class com.alexander.whatareyouvotingfor.events.HandleWolfArmourEvents syncToClient(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		5: ASM: class com.alexander.whatareyouvotingfor.events.HandleWolfArmourEvents handleUpdates(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		6: ASM: class com.alexander.whatareyouvotingfor.events.HandleWolfArmourEvents applyArmouredAttributes(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		7: net.minecraftforge.eventbus.EventBus$$Lambda$1762/0x00007ad7a0808f88@6868b25a
+		8: ASM: class quek.undergarden.item.tool.UGToolEvents froststeelTickEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		9: ASM: com.mrcrayfish.framework.event.ForgeEvents@3d28c389 onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		10: ASM: class net.mcreator.realmrpgdemons.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		11: net.minecraftforge.eventbus.EventBus$$Lambda$1762/0x00007ad7a0808f88@663ec313
+		12: ASM: class net.mcreator.mobsofsins.procedures.TigerMusclesEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		13: ASM: class net.mcreator.mobsofsins.procedures.TigerGulberEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		14: ASM: class net.mcreator.mobsofsins.procedures.TarantulaHawkGulberEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		15: ASM: class net.mcreator.mobsofsins.procedures.NuisanceMuscleGulberEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		16: ASM: class net.mcreator.mobsofsins.procedures.LingeringPheromonesEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		17: ASM: class net.mcreator.mobsofsins.procedures.GrizzlyBearGulberEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		18: ASM: class net.mcreator.mobsofsins.procedures.GazelleRibsEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		19: ASM: class net.mcreator.mobsofsins.procedures.FrilledSharkRibsEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		20: ASM: class net.mcreator.mobsofsins.procedures.CockroachGulberEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		21: ASM: class net.mcreator.mobsofsins.procedures.CapucinMonkeyHeartEffectProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		22: ASM: class tallestegg.guardvillagers.HandlerEvents onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		23: ASM: class io.redspace.ironsspellbooks.player.ServerPlayerEvents onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		24: ASM: class io.redspace.ironsspellbooks.effect.guiding_bolt.GuidingBoltManager livingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		25: ASM: class com.aqutheseal.celestisynth.common.events.CSCommonMiscEvents onLivingTickEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		26: ASM: class io.github.edwinmindcraft.apoli.common.ApoliPowerEventHandler playerTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		27: ASM: class io.github.edwinmindcraft.apoli.common.ApoliEventHandler livingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		28: net.minecraftforge.eventbus.EventBus$$Lambda$1762/0x00007ad7a0808f88@62a68ebc
+		29: ASM: class com.legacy.blue_skies.events.SkiesEvents onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		30: ASM: class com.legacy.lost_aether.event.LCEvents onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		31: ASM: class net.builderdog.ancient_aether.event.listeners.CapabilityListener onPlayerUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		32: ASM: class net.builderdog.ancient_aether.event.listeners.ArmorAbilityListener onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		33: ASM: class com.aetherteam.aether.event.listeners.capability.AetherPlayerListener onPlayerUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		34: ASM: class com.aetherteam.aether.event.listeners.abilities.ArmorAbilityListener onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		35: ASM: com.github.alexthe666.citadel.server.CitadelEvents@1ad35711 onEntityUpdateDebug(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		36: ASM: class net.zepalesque.redux.event.listener.MobListener livingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		37: ASM: class net.zepalesque.redux.event.listener.MobListener movementHandling(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		38: ASM: class net.zepalesque.redux.event.listener.EquipmentListener tickPlayer(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		39: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@2596e092 onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		40: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@171a3980 onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		41: ASM: class it.hurts.sskirillss.relics.effects.BleedingEffect$Events onLivingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		42: ASM: class com.github.alexthe666.iceandfire.entity.props.CapabilityHandler tickData(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		43: ASM: class twilightforest.events.HostileMountEvents livingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		44: ASM: class twilightforest.events.EntityEvents onLivingTickEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		45: ASM: class twilightforest.events.CapabilityEvents updateCaps(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		46: ASM: class tallestegg.illagersweararmor.IWASpawnEvents tickEntity(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		47: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@31488306 livingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		48: ASM: elucent.eidolon.event.Events@12e76f89 onTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		49: net.minecraftforge.eventbus.EventBus$$Lambda$1762/0x00007ad7a0808f88@7f15deb3
+		50: ASM: class net.merchantpug.apugli.ApugliForgeEventHandler onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		51: net.minecraftforge.eventbus.EventBus$$Lambda$1762/0x00007ad7a0808f88@52c25969
+		52: ASM: dev.shadowsoffire.apotheosis.adventure.AdventureEvents@97f12a2 update(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		53: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@1c7b5f07 tick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		54: net.minecraftforge.eventbus.EventBus$$Lambda$1762/0x00007ad7a0808f88@42743e79
+		55: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@eeb6801 onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.items.StinkGlandItem.addExperience(net.minecraft.world.entity.Entity, net.minecraft.world.item.ItemStack, int)'
+	at TRANSFORMER/ramcompat@0.1.1/it.hurts.sskirillss.ramcompat.items.StinkGlandItem.curioTick(StinkGlandItem.java:167)
+	at TRANSFORMER/curios@5.7.2+1.20.1/top.theillusivec4.curios.common.capability.ItemizedCurioCapability.curioTick(ItemizedCurioCapability.java:55)
+	at TRANSFORMER/curios@5.7.2+1.20.1/top.theillusivec4.curios.common.event.CuriosEventHandler.lambda$tick$30(CuriosEventHandler.java:568)
+	at TRANSFORMER/forge@47.2.6/net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:137)
+	at TRANSFORMER/curios@5.7.2+1.20.1/top.theillusivec4.curios.common.event.CuriosEventHandler.lambda$tick$35(CuriosEventHandler.java:568)
+	at TRANSFORMER/forge@47.2.6/net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:137)
+	at TRANSFORMER/curios@5.7.2+1.20.1/top.theillusivec4.curios.common.event.CuriosEventHandler.tick(CuriosEventHandler.java:547)
+	at TRANSFORMER/curios@5.7.2+1.20.1/top.theillusivec4.curios.common.event.__CuriosEventHandler_tick_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.2.6/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:241)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.mixinextras$bridge$m_9240_$149(ServerGamePacketListenerImpl.java)
+	at TRANSFORMER/neruina@1.3.0/com.bawnorton.neruina.handler.NeruinaTickHandler.safelyTickPlayer$notTheCauseOfTickLag(NeruinaTickHandler.java:63)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.wrapOperation$ddi000$neruina$catchTickingPlayer(ServerGamePacketListenerImpl.java:5796)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[16Feb2025 03:56:01.689] [Server thread/WARN] [neruina/]: Neruina Caught Exception
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.mixinextras$bridge$m_9240_$149(ServerGamePacketListenerImpl.java) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at com.bawnorton.neruina.handler.NeruinaTickHandler.safelyTickPlayer$notTheCauseOfTickLag(NeruinaTickHandler.java:63) ~[neruina-1.3.0-forge+1.18.2-1.20.1.jar%23618!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.wrapOperation$ddi000$neruina$catchTickingPlayer(ServerGamePacketListenerImpl.java:5796) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NoSuchMethodError: 'void it.hurts.sskirillss.ramcompat.items.StinkGlandItem.addExperience(net.minecraft.world.entity.Entity, net.minecraft.world.item.ItemStack, int)'
+	at it.hurts.sskirillss.ramcompat.items.StinkGlandItem.curioTick(StinkGlandItem.java:167) ~[ramcompat-1.20.1-0.1.1.jar%23648!/:1.20.1-0.1.1]
+	at top.theillusivec4.curios.common.capability.ItemizedCurioCapability.curioTick(ItemizedCurioCapability.java:55) ~[curios-forge-5.7.2+1.20.1.jar%23498!/:5.7.2+1.20.1]
+	at top.theillusivec4.curios.common.event.CuriosEventHandler.lambda$tick$30(CuriosEventHandler.java:568) ~[curios-forge-5.7.2+1.20.1.jar%23498!/:5.7.2+1.20.1]
+	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:137) ~[forge-1.20.1-47.2.6-universal.jar%23748!/:?]
+	at top.theillusivec4.curios.common.event.CuriosEventHandler.lambda$tick$35(CuriosEventHandler.java:568) ~[curios-forge-5.7.2+1.20.1.jar%23498!/:5.7.2+1.20.1]
+	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:137) ~[forge-1.20.1-47.2.6-universal.jar%23748!/:?]
+	at top.theillusivec4.curios.common.event.CuriosEventHandler.tick(CuriosEventHandler.java:547) ~[curios-forge-5.7.2+1.20.1.jar%23498!/:5.7.2+1.20.1]
+	at top.theillusivec4.curios.common.event.__CuriosEventHandler_tick_LivingTickEvent.invoke(.dynamic) ~[curios-forge-5.7.2+1.20.1.jar%23498!/:5.7.2+1.20.1]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264) ~[forge-1.20.1-47.2.6-universal.jar%23748!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23743!/:?]
+	... 12 more
+[16Feb2025 03:56:01.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: inseminador lost connection: You have been kicked due to a ticking exception on your player. Please remove the culprit mod or contact an admin.
+[16Feb2025 03:56:01.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: inseminador left the game
+[16Feb2025 03:56:01.734] [Server thread/INFO] [survive/]: Removing Client (inseminador) From Survive Data Sync List
+[16Feb2025 03:56:18.465] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@13bad00c[id=<null>,name=inseminador,properties={},legacy=false] (/127.233.13.83:36209) lost connection: Disconnected
